@@ -1,10 +1,9 @@
 {
-  "name": "phis-transcript-archive",
+  "name": "phis-transcript-portal",
   "version": "1.0.0",
   "scripts": {
-    "install": "cd backend && npm install && cd ../frontend && npm install",
-    "build": "cd frontend && npm run build",
-    "start": "cd backend && node server.js"
+    "build": "npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend",
+    "start": "node backend/server.js"
   },
   "engines": {
     "node": ">=18.0.0"
