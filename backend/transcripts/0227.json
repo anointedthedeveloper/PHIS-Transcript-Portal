@@ -1,0 +1,392 @@
+{
+  "full_name": "OMOYENI ARINOLA MABEL",
+  "student_id": "phis/pp/222",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "Pre-Nursery",
+      "period": "2020/2021 - First Term",
+      "subjects": [
+        {
+          "subject": "Civic Education",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Colouring",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "99",
+          "grade": "A+"
+        },
+        {
+          "subject": "Number Work",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "P.L.E",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "87",
+          "grade": "A"
+        },
+        {
+          "subject": "Science",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social Habits",
+          "score": "98",
+          "grade": "A+"
+        }
+      ],
+      "average": "96.73%",
+      "average_grade": "N/A"
+    },
+    {
+      "term": "Pre-Nursery Victory",
+      "period": "2020/2021 - Second Term",
+      "subjects": [
+        {
+          "subject": "Civic Education",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Colouring Activities",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "Number Work",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "P.L.E",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Science",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social Habits",
+          "score": "100",
+          "grade": "A+"
+        }
+      ],
+      "average": "95.27%",
+      "average_grade": "A+"
+    },
+    {
+      "term": "Nursery 1 Success",
+      "period": "2021/2022 - First Term",
+      "subjects": [
+        {
+          "subject": "C.R.S",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Colouring",
+          "score": "93",
+          "grade": "A+"
+        },
+        {
+          "subject": "Computer Studies",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "French",
+          "score": "87",
+          "grade": "A"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "81",
+          "grade": "A"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Number Work",
+          "score": "93",
+          "grade": "A+"
+        },
+        {
+          "subject": "P.L.E",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "Quantitative Reasoning",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Science",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social Habits",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Verbal Reasoning",
+          "score": "100",
+          "grade": "A+"
+        }
+      ],
+      "average": "96.00%",
+      "average_grade": "A+"
+    },
+    {
+      "term": "Nursery 1 Success",
+      "period": "2021/2022 - Second Term",
+      "subjects": [
+        {
+          "subject": "C.R.S",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "Colouring",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "Computer Studies",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "French",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "Number Work",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "P.L.E",
+          "score": "87",
+          "grade": "A"
+        },
+        {
+          "subject": "Phonics",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "Quantitative Reasoning",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Science",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social Habits",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Verbal Reasoning",
+          "score": "94",
+          "grade": "A+"
+        }
+      ],
+      "average": "94.69%",
+      "average_grade": "A+"
+    },
+    {
+      "term": "Nursery 1 Success",
+      "period": "2021/2022 - Third Term",
+      "subjects": [
+        {
+          "subject": "C.R.S",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Colouring",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Computer Studies",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "French",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "85",
+          "grade": "A"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Number Work",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "P.L.E",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Phonics",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Quantitative Reasoning",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Science",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social Habits",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "Verbal Reasoning",
+          "score": "100",
+          "grade": "A+"
+        }
+      ],
+      "average": "97.00%",
+      "average_grade": "A+"
+    }
+  ]
+}

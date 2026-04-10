@@ -1,0 +1,113 @@
+{
+  "full_name": "ADEKOYA OLUWADARASIMI SHARON",
+  "student_id": "PHIS/PP/019",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "Pre-Nursery",
+      "period": "2017/2018 - Third Term",
+      "subjects": [
+        {
+          "subject": "Colouring Activities",
+          "score": "85",
+          "grade": "A"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "55",
+          "grade": "C"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "59",
+          "grade": "C"
+        },
+        {
+          "subject": "Number Work",
+          "score": "54",
+          "grade": "C"
+        },
+        {
+          "subject": "Phonics",
+          "score": "60",
+          "grade": "B"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "50",
+          "grade": "C"
+        }
+      ],
+      "average": "60.50%",
+      "average_grade": "N/A"
+    },
+    {
+      "term": "Pre-Nursery Success",
+      "period": "2018/2019 - First Term",
+      "subjects": [
+        {
+          "subject": "Civic Education",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Colouring Activities",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "99",
+          "grade": "A+"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Number Work",
+          "score": "87",
+          "grade": "A"
+        },
+        {
+          "subject": "P.L.E",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "Phonics",
+          "score": "93",
+          "grade": "A+"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "Science",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social Habits",
+          "score": "94",
+          "grade": "A+"
+        }
+      ],
+      "average": "95.67%",
+      "average_grade": "A+"
+    }
+  ]
+}

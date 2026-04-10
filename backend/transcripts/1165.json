@@ -1,0 +1,118 @@
+{
+  "full_name": "IROENYEONWU EBUBE",
+  "student_id": "PHIS/PP/1181",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "SS 1 Success",
+      "period": "2025/2026 - First Term",
+      "subjects": [
+        {
+          "subject": "Biology",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "Chemistry",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "Citizenship & Heritage Studies",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "Coding",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "Data Technology",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "English Studies",
+          "score": "71",
+          "grade": "B+"
+        },
+        {
+          "subject": "Geography",
+          "score": "68",
+          "grade": "B"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "57",
+          "grade": "C"
+        },
+        {
+          "subject": "Physics",
+          "score": "41",
+          "grade": "D"
+        },
+        {
+          "subject": "Trade (Livestock Farming)",
+          "score": "92",
+          "grade": "A+"
+        }
+      ],
+      "average": "77.40%",
+      "average_grade": "B+"
+    },
+    {
+      "term": "SS 1 Success",
+      "period": "2025/2026 - Second Term",
+      "subjects": [
+        {
+          "subject": "Biology",
+          "score": "72",
+          "grade": "B+"
+        },
+        {
+          "subject": "Chemistry",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Citizenship & Heritage Studies",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "Data Technology",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "English Studies",
+          "score": "77",
+          "grade": "B+"
+        },
+        {
+          "subject": "Geography",
+          "score": "72",
+          "grade": "B+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "Physics",
+          "score": "67",
+          "grade": "B"
+        },
+        {
+          "subject": "Trade (Livestock Farming)",
+          "score": "69",
+          "grade": "B"
+        }
+      ],
+      "average": "78.00%",
+      "average_grade": "B+"
+    }
+  ]
+}

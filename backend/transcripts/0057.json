@@ -1,0 +1,75 @@
+{
+  "full_name": "AGHOGHOPHIA JAYDEN EFETOBORE",
+  "student_id": "PHIS/PP/062",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "Nursery 1",
+      "period": "2018/2019 - First Term",
+      "subjects": [
+        {
+          "subject": "Colouring Activities",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "67",
+          "grade": "B"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "68",
+          "grade": "B"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "72",
+          "grade": "B+"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "71",
+          "grade": "B+"
+        },
+        {
+          "subject": "Number Work",
+          "score": "69",
+          "grade": "B"
+        },
+        {
+          "subject": "P.L.E",
+          "score": "70",
+          "grade": "B+"
+        },
+        {
+          "subject": "Phonics",
+          "score": "74",
+          "grade": "B+"
+        },
+        {
+          "subject": "Quantitative Reasoning",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "Science",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "Social Habits",
+          "score": "68",
+          "grade": "B"
+        },
+        {
+          "subject": "Verbal Reasoning",
+          "score": "72",
+          "grade": "B+"
+        }
+      ],
+      "average": "73.42%",
+      "average_grade": "N/A"
+    }
+  ]
+}

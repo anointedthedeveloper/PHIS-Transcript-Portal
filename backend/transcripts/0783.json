@@ -1,0 +1,110 @@
+{
+  "full_name": "",
+  "student_id": "783",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "JSS 1 Victory",
+      "period": "2022/2023 - Third Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "51",
+          "grade": "C"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "49",
+          "grade": "D"
+        },
+        {
+          "subject": "Basic Technology",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "Business Studies",
+          "score": "77",
+          "grade": "B+"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "50",
+          "grade": "C"
+        },
+        {
+          "subject": "C.R.S",
+          "score": "77",
+          "grade": "B+"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "61",
+          "grade": "B"
+        },
+        {
+          "subject": "English Language",
+          "score": "58",
+          "grade": "C"
+        },
+        {
+          "subject": "French",
+          "score": "59",
+          "grade": "C"
+        },
+        {
+          "subject": "Hausa",
+          "score": "56",
+          "grade": "C"
+        },
+        {
+          "subject": "History",
+          "score": "66",
+          "grade": "B"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "57",
+          "grade": "C"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "18",
+          "grade": "F"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "60",
+          "grade": "C"
+        },
+        {
+          "subject": "Music",
+          "score": "65",
+          "grade": "B"
+        },
+        {
+          "subject": "P.H.E",
+          "score": "21",
+          "grade": "F"
+        },
+        {
+          "subject": "Phonics",
+          "score": "50",
+          "grade": "C"
+        },
+        {
+          "subject": "Security Education",
+          "score": "66",
+          "grade": "B"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "55",
+          "grade": "C"
+        }
+      ],
+      "average": "56.37%",
+      "average_grade": "C"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "full_name": "EJIMONU EBUBECHUKWU MICHAEL",
+  "student_id": "Phis/pp/466",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "SS 1",
+      "period": "2021/2022 - First Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Biology",
+          "score": "81",
+          "grade": "A"
+        },
+        {
+          "subject": "Chemistry",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "72",
+          "grade": "B+"
+        },
+        {
+          "subject": "Data Processing",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "Economics",
+          "score": "65",
+          "grade": "B"
+        },
+        {
+          "subject": "English Language",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "67",
+          "grade": "B"
+        },
+        {
+          "subject": "Physics",
+          "score": "84",
+          "grade": "A"
+        }
+      ],
+      "average": "78.78%",
+      "average_grade": "B+"
+    },
+    {
+      "term": "SS 1",
+      "period": "2021/2022 - Second Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "78",
+          "grade": "B+"
+        },
+        {
+          "subject": "Biology",
+          "score": "87",
+          "grade": "A"
+        },
+        {
+          "subject": "Chemistry",
+          "score": "78",
+          "grade": "B+"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "59",
+          "grade": "C"
+        },
+        {
+          "subject": "Data Processing",
+          "score": "77",
+          "grade": "B+"
+        },
+        {
+          "subject": "Economics",
+          "score": "73",
+          "grade": "B+"
+        },
+        {
+          "subject": "English Language",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "Further Maths",
+          "score": "69",
+          "grade": "B"
+        },
+        {
+          "subject": "Geography",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "Physics",
+          "score": "76",
+          "grade": "B+"
+        }
+      ],
+      "average": "78.64%",
+      "average_grade": "B+"
+    },
+    {
+      "term": "SS 1",
+      "period": "2021/2022 - Third Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "85",
+          "grade": "A"
+        },
+        {
+          "subject": "Biology",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "Chemistry",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Data Processing",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "Economics",
+          "score": "57",
+          "grade": "C"
+        },
+        {
+          "subject": "English Language",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Further Maths",
+          "score": "49",
+          "grade": "D"
+        },
+        {
+          "subject": "Geography",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "74",
+          "grade": "B+"
+        },
+        {
+          "subject": "Physics",
+          "score": "87",
+          "grade": "A"
+        }
+      ],
+      "average": "80.64%",
+      "average_grade": "A"
+    }
+  ]
+}

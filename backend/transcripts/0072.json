@@ -1,0 +1,369 @@
+{
+  "full_name": "BELLO HENRY OSAHENRUMWEN",
+  "student_id": "phis/pp/073",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "Nursery 2",
+      "period": "2018/2019 - Third Term",
+      "subjects": [
+        {
+          "subject": "Colouring Activities",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "87",
+          "grade": "A"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "83",
+          "grade": "A"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "Literacy",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "Nature Study",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Numeracy",
+          "score": "93",
+          "grade": "A+"
+        },
+        {
+          "subject": "P.L.E",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "Quantitative Reasoning",
+          "score": "71",
+          "grade": "B+"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "76",
+          "grade": "B+"
+        },
+        {
+          "subject": "Science",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social Habits",
+          "score": "72",
+          "grade": "B+"
+        },
+        {
+          "subject": "Verbal Reasoning",
+          "score": "94",
+          "grade": "A+"
+        }
+      ],
+      "average": "86.31%",
+      "average_grade": "A"
+    },
+    {
+      "term": "Basic 1",
+      "period": "2019/2020 - First Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "49",
+          "grade": "D"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "54",
+          "grade": "C"
+        },
+        {
+          "subject": "Basic Tech.",
+          "score": "55",
+          "grade": "C"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "52",
+          "grade": "C"
+        },
+        {
+          "subject": "C.R.S",
+          "score": "57",
+          "grade": "C"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "49",
+          "grade": "D"
+        },
+        {
+          "subject": "English Language",
+          "score": "50",
+          "grade": "C"
+        },
+        {
+          "subject": "French Language",
+          "score": "60",
+          "grade": "B"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "54",
+          "grade": "C"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "56",
+          "grade": "C"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "54",
+          "grade": "C"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "52",
+          "grade": "C"
+        },
+        {
+          "subject": "P H E",
+          "score": "53",
+          "grade": "C"
+        },
+        {
+          "subject": "Phonics",
+          "score": "60",
+          "grade": "B"
+        },
+        {
+          "subject": "Quantitative Reasoning",
+          "score": "46",
+          "grade": "D"
+        },
+        {
+          "subject": "Security Education",
+          "score": "55",
+          "grade": "C"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "55",
+          "grade": "C"
+        },
+        {
+          "subject": "Verbal Reasoning",
+          "score": "49",
+          "grade": "D"
+        }
+      ],
+      "average": "53.33%",
+      "average_grade": "N/A"
+    },
+    {
+      "term": "Basic 2",
+      "period": "2020/2021 - Second Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "83",
+          "grade": "A"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "85",
+          "grade": "A"
+        },
+        {
+          "subject": "Basic Tech.",
+          "score": "77",
+          "grade": "B+"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "C.R.S",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "English Language",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "French Language",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "77",
+          "grade": "B+"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "83",
+          "grade": "A"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "81",
+          "grade": "A"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "87",
+          "grade": "A"
+        },
+        {
+          "subject": "P H E",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Quantitative Reasoning",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "Security Education",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Verbal Reasoning",
+          "score": "89",
+          "grade": "A"
+        }
+      ],
+      "average": "85.35%",
+      "average_grade": "A"
+    },
+    {
+      "term": "Basic 3 Success",
+      "period": "2021/2022 - First Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "87",
+          "grade": "A"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Basic Tech.",
+          "score": "72",
+          "grade": "B+"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "C.R.S",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "85",
+          "grade": "A"
+        },
+        {
+          "subject": "English Language",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "French Language",
+          "score": "78",
+          "grade": "B+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "87",
+          "grade": "A"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "Music",
+          "score": "72",
+          "grade": "B+"
+        },
+        {
+          "subject": "P H E",
+          "score": "85",
+          "grade": "A"
+        },
+        {
+          "subject": "Quantitative Reasoning",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Security Education",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Verbal Reasoning",
+          "score": "85",
+          "grade": "A"
+        }
+      ],
+      "average": "84.28%",
+      "average_grade": "A"
+    }
+  ]
+}

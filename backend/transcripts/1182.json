@@ -1,0 +1,60 @@
+{
+  "full_name": "ONOKUREFE BASIL OGHENEMARO",
+  "student_id": "PHIS/PP/1198",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "Pre-Nursery 1 Success",
+      "period": "2025/2026 - First Term",
+      "subjects": [
+        {
+          "subject": "Basic Digital Literacy",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "Colouring Activities",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "Literacy",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "Numeracy",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Science",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social & Citizenship Studies",
+          "score": "93",
+          "grade": "A+"
+        }
+      ],
+      "average": "96.89%",
+      "average_grade": "A+"
+    }
+  ]
+}

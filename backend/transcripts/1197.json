@@ -1,0 +1,118 @@
+{
+  "full_name": "ABDULWAHAB RAHAMA OYIZA",
+  "student_id": "PHIS/PP/1213",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "SS 1 Success",
+      "period": "2025/2026 - First Term",
+      "subjects": [
+        {
+          "subject": "Biology",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "Chemistry",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Citizenship & Heritage Studies",
+          "score": "99",
+          "grade": "A+"
+        },
+        {
+          "subject": "Coding",
+          "score": "64",
+          "grade": "B"
+        },
+        {
+          "subject": "Data Technology",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "English Studies",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Geography",
+          "score": "73",
+          "grade": "B+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "Physics",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "Trade (Livestock Farming)",
+          "score": "95",
+          "grade": "A+"
+        }
+      ],
+      "average": "86.10%",
+      "average_grade": "A"
+    },
+    {
+      "term": "SS 1 Success",
+      "period": "2025/2026 - Second Term",
+      "subjects": [
+        {
+          "subject": "Biology",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "Chemistry",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Citizenship & Heritage Studies",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Data Technology",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "English Studies",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "Geography",
+          "score": "76",
+          "grade": "B+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "Physics",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Trade (Livestock Farming)",
+          "score": "79",
+          "grade": "B+"
+        }
+      ],
+      "average": "87.22%",
+      "average_grade": "A"
+    }
+  ]
+}

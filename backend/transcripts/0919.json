@@ -1,0 +1,309 @@
+{
+  "full_name": "AGIM MIRACLE",
+  "student_id": "PHIS/PP/937",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "JSS 1 VICTORY",
+      "period": "2023/2024 - First Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "74",
+          "grade": "B+"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "Basic Technology",
+          "score": "85",
+          "grade": "A"
+        },
+        {
+          "subject": "Business Studies",
+          "score": "68",
+          "grade": "B"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "83",
+          "grade": "A"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "74",
+          "grade": "B+"
+        },
+        {
+          "subject": "English Language",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "French",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Hausa",
+          "score": "77",
+          "grade": "B+"
+        },
+        {
+          "subject": "History",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "78",
+          "grade": "B+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "69",
+          "grade": "B"
+        },
+        {
+          "subject": "Music",
+          "score": "85",
+          "grade": "A"
+        },
+        {
+          "subject": "P.H.E",
+          "score": "77",
+          "grade": "B+"
+        },
+        {
+          "subject": "Phonics",
+          "score": "57",
+          "grade": "C"
+        },
+        {
+          "subject": "Religion",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Security Education",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "71",
+          "grade": "B+"
+        }
+      ],
+      "average": "78.42%",
+      "average_grade": "B+"
+    },
+    {
+      "term": "JSS 1 VICTORY",
+      "period": "2023/2024 - Second Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "74",
+          "grade": "B+"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "61",
+          "grade": "B"
+        },
+        {
+          "subject": "Basic Technology",
+          "score": "72",
+          "grade": "B+"
+        },
+        {
+          "subject": "Business Studies",
+          "score": "66",
+          "grade": "B"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "76",
+          "grade": "B+"
+        },
+        {
+          "subject": "English Language",
+          "score": "78",
+          "grade": "B+"
+        },
+        {
+          "subject": "French",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "Hausa",
+          "score": "79",
+          "grade": "B+"
+        },
+        {
+          "subject": "History",
+          "score": "70",
+          "grade": "B+"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "64",
+          "grade": "B"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "57",
+          "grade": "C"
+        },
+        {
+          "subject": "P.H.E",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Religion",
+          "score": "80",
+          "grade": "B+"
+        },
+        {
+          "subject": "Security Education",
+          "score": "69",
+          "grade": "B"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "89",
+          "grade": "A"
+        }
+      ],
+      "average": "74.41%",
+      "average_grade": "B+"
+    },
+    {
+      "term": "JSS 1 VICTORY",
+      "period": "2023/2024 - Third Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "69",
+          "grade": "B"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Basic Technology",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Business Studies",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "English Language",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "French",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Hausa",
+          "score": "",
+          "grade": ""
+        },
+        {
+          "subject": "History",
+          "score": "74",
+          "grade": "B+"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "77",
+          "grade": "B+"
+        },
+        {
+          "subject": "P.H.E",
+          "score": "78",
+          "grade": "B+"
+        },
+        {
+          "subject": "Religion",
+          "score": "87",
+          "grade": "A"
+        },
+        {
+          "subject": "Security Education",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "90",
+          "grade": "A+"
+        }
+      ],
+      "average": "76.94%",
+      "average_grade": "B+"
+    },
+    {
+      "term": "JSS 2 VICTORY",
+      "period": "2024/2025 - First Term",
+      "subjects": [
+        {
+          "subject": "C.C.A",
+          "score": "45",
+          "grade": "D"
+        }
+      ],
+      "average": "45.00%",
+      "average_grade": "D"
+    }
+  ]
+}

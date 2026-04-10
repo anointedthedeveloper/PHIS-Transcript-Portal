@@ -1,0 +1,70 @@
+{
+  "full_name": "UGWU MMASINACHI",
+  "student_id": "phis/pp/079",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "Pre-Nursery Victory",
+      "period": "2018/2019 - Third Term",
+      "subjects": [
+        {
+          "subject": "Civic Education",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "Colouring Activities",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "67",
+          "grade": "B"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "68",
+          "grade": "B"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "78",
+          "grade": "B+"
+        },
+        {
+          "subject": "Number Work",
+          "score": "72",
+          "grade": "B+"
+        },
+        {
+          "subject": "P.L.E",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Science",
+          "score": "69",
+          "grade": "B"
+        },
+        {
+          "subject": "Social Habits",
+          "score": "59",
+          "grade": "C"
+        }
+      ],
+      "average": "77.91%",
+      "average_grade": "B+"
+    }
+  ]
+}

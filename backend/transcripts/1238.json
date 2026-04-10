@@ -1,0 +1,55 @@
+{
+  "full_name": "ADESAYO IVAN",
+  "student_id": "1238",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "Reception",
+      "period": "2025/2026 - Second Term",
+      "subjects": [
+        {
+          "subject": "Colouring",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "66",
+          "grade": "B"
+        },
+        {
+          "subject": "Literacy",
+          "score": "62",
+          "grade": "B"
+        },
+        {
+          "subject": "Numeracy",
+          "score": "81",
+          "grade": "A"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Science",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "Social Habits",
+          "score": "76",
+          "grade": "B+"
+        }
+      ],
+      "average": "79.75%",
+      "average_grade": "B+"
+    }
+  ]
+}

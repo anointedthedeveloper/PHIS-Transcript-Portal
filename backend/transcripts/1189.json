@@ -1,0 +1,60 @@
+{
+  "full_name": "UMAR ALAMIN",
+  "student_id": "PHIS/PP/1205",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "Pre-Nursery 1 Success",
+      "period": "2025/2026 - First Term",
+      "subjects": [
+        {
+          "subject": "Basic Digital Literacy",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "Colouring Activities",
+          "score": "76",
+          "grade": "B+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Literacy",
+          "score": "58",
+          "grade": "C"
+        },
+        {
+          "subject": "Numeracy",
+          "score": "64",
+          "grade": "B"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Science",
+          "score": "55",
+          "grade": "C"
+        },
+        {
+          "subject": "Social & Citizenship Studies",
+          "score": "75",
+          "grade": "B+"
+        }
+      ],
+      "average": "74.11%",
+      "average_grade": "B+"
+    }
+  ]
+}

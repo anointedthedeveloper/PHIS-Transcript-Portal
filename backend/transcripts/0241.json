@@ -1,0 +1,570 @@
+{
+  "full_name": "IBUOT ISRAEL",
+  "student_id": "PHIS/PP/250",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "NURSERY 2 VICTORY",
+      "period": "2020/2021 - First Term",
+      "subjects": [
+        {
+          "subject": "C.R.K",
+          "score": "87",
+          "grade": "A"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "Colouring",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "French",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "",
+          "grade": ""
+        },
+        {
+          "subject": "I.C.T",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "Number Work",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "P.L.E",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Phonics",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Quantitative Reasoning",
+          "score": "99",
+          "grade": "A+"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Science",
+          "score": "99",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social Habits",
+          "score": "",
+          "grade": ""
+        },
+        {
+          "subject": "Verbal Reasoning",
+          "score": "98",
+          "grade": "A+"
+        }
+      ],
+      "average": "83.44%",
+      "average_grade": "A"
+    },
+    {
+      "term": "NURSERY 2 VICTORY",
+      "period": "2020/2021 - Second Term",
+      "subjects": [
+        {
+          "subject": "C.R.K",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "Colouring",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "French",
+          "score": "83",
+          "grade": "A"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Number Work",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "P.L.E",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Quantitative Reasoning",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "87",
+          "grade": "A"
+        },
+        {
+          "subject": "Science",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social Habits",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Verbal Reasoning",
+          "score": "98",
+          "grade": "A+"
+        }
+      ],
+      "average": "90.27%",
+      "average_grade": "A+"
+    },
+    {
+      "term": "NURSERY 2 VICTORY",
+      "period": "2020/2021 - Third Term",
+      "subjects": [
+        {
+          "subject": "C.R.K",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "93",
+          "grade": "A+"
+        },
+        {
+          "subject": "Colouring",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "French",
+          "score": "85",
+          "grade": "A"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Number Work",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "P.L.E",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "Phonics",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "Quantitative Reasoning",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "Science",
+          "score": "99",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social Habits",
+          "score": "87",
+          "grade": "A"
+        },
+        {
+          "subject": "Verbal Reasoning",
+          "score": "91",
+          "grade": "A+"
+        }
+      ],
+      "average": "89.81%",
+      "average_grade": "A"
+    },
+    {
+      "term": "Basic 1 Victory",
+      "period": "2021/2022 - First Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "66",
+          "grade": "B"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "66",
+          "grade": "B"
+        },
+        {
+          "subject": "Basic Tech.",
+          "score": "60",
+          "grade": "B"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "46",
+          "grade": "D"
+        },
+        {
+          "subject": "C.R.S",
+          "score": "62",
+          "grade": "B"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "66",
+          "grade": "B"
+        },
+        {
+          "subject": "English Language",
+          "score": "70",
+          "grade": "B+"
+        },
+        {
+          "subject": "French",
+          "score": "41",
+          "grade": "D"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "35",
+          "grade": "F"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "62",
+          "grade": "B"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "62",
+          "grade": "B"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "73",
+          "grade": "B+"
+        },
+        {
+          "subject": "Music",
+          "score": "57",
+          "grade": "C"
+        },
+        {
+          "subject": "P.H.E",
+          "score": "71",
+          "grade": "B+"
+        },
+        {
+          "subject": "Quantitative Reasoning",
+          "score": "67",
+          "grade": "B"
+        },
+        {
+          "subject": "Security Education",
+          "score": "65",
+          "grade": "B"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "57",
+          "grade": "C"
+        },
+        {
+          "subject": "Verbal Reasoning",
+          "score": "63",
+          "grade": "B"
+        }
+      ],
+      "average": "60.50%",
+      "average_grade": "B"
+    },
+    {
+      "term": "Basic 1 Victory",
+      "period": "2021/2022 - Second Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "81",
+          "grade": "A"
+        },
+        {
+          "subject": "Basic Tech.",
+          "score": "81",
+          "grade": "A"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "C.R.S",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "English Language",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "French",
+          "score": "78",
+          "grade": "B+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "72",
+          "grade": "B+"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "83",
+          "grade": "A"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "77",
+          "grade": "B+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "79",
+          "grade": "B+"
+        },
+        {
+          "subject": "Music",
+          "score": "68",
+          "grade": "B"
+        },
+        {
+          "subject": "P.H.E",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Phonics",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Quantitative Reasoning",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "Security Education",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "Verbal Reasoning",
+          "score": "90",
+          "grade": "A+"
+        }
+      ],
+      "average": "82.32%",
+      "average_grade": "A"
+    },
+    {
+      "term": "Basic 1 Victory",
+      "period": "2021/2022 - Third Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "78",
+          "grade": "B+"
+        },
+        {
+          "subject": "Basic Technology",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "C.R.S",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "English Language",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "French",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "73",
+          "grade": "B+"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "Music",
+          "score": "83",
+          "grade": "A"
+        },
+        {
+          "subject": "P.H.E",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "Phonics",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "Quantitative Reasoning",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Security Education",
+          "score": "99",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "78",
+          "grade": "B+"
+        },
+        {
+          "subject": "Verbal Reasoning",
+          "score": "89",
+          "grade": "A"
+        }
+      ],
+      "average": "86.84%",
+      "average_grade": "A"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "full_name": "ENENCHE SHALOM OWOICHO",
+  "student_id": "PHIS/PP/1228",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "SS 2",
+      "period": "2025/2026 - First Term",
+      "subjects": [
+        {
+          "subject": "Biology",
+          "score": "72",
+          "grade": "B+"
+        },
+        {
+          "subject": "Chemistry",
+          "score": "66",
+          "grade": "B"
+        },
+        {
+          "subject": "Citizenship & Heritage Studies",
+          "score": "99",
+          "grade": "A+"
+        },
+        {
+          "subject": "Coding",
+          "score": "66",
+          "grade": "B"
+        },
+        {
+          "subject": "Data Technology",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "English Studies",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "Geography",
+          "score": "79",
+          "grade": "B+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "58",
+          "grade": "C"
+        },
+        {
+          "subject": "Physics",
+          "score": "57",
+          "grade": "C"
+        },
+        {
+          "subject": "Trade (Livestock Farming)",
+          "score": "92",
+          "grade": "A+"
+        }
+      ],
+      "average": "75.70%",
+      "average_grade": "B+"
+    },
+    {
+      "term": "SS 2",
+      "period": "2025/2026 - Second Term",
+      "subjects": [
+        {
+          "subject": "Biology",
+          "score": "71",
+          "grade": "B+"
+        },
+        {
+          "subject": "Chemistry",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Citizenship & Heritage Studies",
+          "score": "93",
+          "grade": "A+"
+        },
+        {
+          "subject": "Coding",
+          "score": "67",
+          "grade": "B"
+        },
+        {
+          "subject": "Data Technology",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "English Studies",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "Geography",
+          "score": "71",
+          "grade": "B+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "63",
+          "grade": "B"
+        },
+        {
+          "subject": "Physics",
+          "score": "73",
+          "grade": "B+"
+        },
+        {
+          "subject": "Trade (Livestock Farming)",
+          "score": "80",
+          "grade": "A"
+        }
+      ],
+      "average": "79.30%",
+      "average_grade": "B+"
+    }
+  ]
+}

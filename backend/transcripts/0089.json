@@ -1,0 +1,70 @@
+{
+  "full_name": "ADEBAYO NORAH ONOTSE",
+  "student_id": "phis/pp/111",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "Pre-Nursery",
+      "period": "2019/2020 - First Term",
+      "subjects": [
+        {
+          "subject": "Civic Education",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Colouring",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Number Work",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "P.L.E",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Science",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social Habits",
+          "score": "86",
+          "grade": "A"
+        }
+      ],
+      "average": "88.91%",
+      "average_grade": "N/A"
+    }
+  ]
+}

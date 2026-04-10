@@ -1,0 +1,70 @@
+{
+  "full_name": "KIND DELIGHT",
+  "student_id": "PHIS/PP/1002",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "Pre-Nursery Victory",
+      "period": "2023/2024 - Second Term",
+      "subjects": [
+        {
+          "subject": "Civic Education",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Colouring",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Computer Studies",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "83",
+          "grade": "A"
+        },
+        {
+          "subject": "Number Work",
+          "score": "85",
+          "grade": "A"
+        },
+        {
+          "subject": "P.L.E",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "Science",
+          "score": "81",
+          "grade": "A"
+        },
+        {
+          "subject": "Social Habits",
+          "score": "100",
+          "grade": "A+"
+        }
+      ],
+      "average": "88.64%",
+      "average_grade": "A"
+    }
+  ]
+}

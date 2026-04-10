@@ -1,0 +1,467 @@
+{
+  "full_name": "DAVID DARREN LYIOLUWA",
+  "student_id": "Phis/pp/368",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "JSS 1",
+      "period": "2021/2022 - First Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "52",
+          "grade": "C"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "76",
+          "grade": "B+"
+        },
+        {
+          "subject": "Basic Technology",
+          "score": "79",
+          "grade": "B+"
+        },
+        {
+          "subject": "Business Studies",
+          "score": "81",
+          "grade": "A"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "76",
+          "grade": "B+"
+        },
+        {
+          "subject": "C.R.S",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "English Language",
+          "score": "81",
+          "grade": "A"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "63",
+          "grade": "B"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "69",
+          "grade": "B"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "87",
+          "grade": "A"
+        },
+        {
+          "subject": "Music",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "P.H.E",
+          "score": "87",
+          "grade": "A"
+        },
+        {
+          "subject": "Security Education",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "83",
+          "grade": "A"
+        }
+      ],
+      "average": "77.60%",
+      "average_grade": "N/A"
+    },
+    {
+      "term": "JSS 1",
+      "period": "2021/2022 - Second Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "Basic Technology",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "Business Studies",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "C.R.S",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "English Language",
+          "score": "83",
+          "grade": "A"
+        },
+        {
+          "subject": "History",
+          "score": "79",
+          "grade": "B+"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "Music",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "P.H.E",
+          "score": "64",
+          "grade": "B"
+        },
+        {
+          "subject": "Phonics",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Security Education",
+          "score": "74",
+          "grade": "B+"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "68",
+          "grade": "B"
+        }
+      ],
+      "average": "82.88%",
+      "average_grade": "N/A"
+    },
+    {
+      "term": "JSS 1",
+      "period": "2021/2022 - Third Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "79",
+          "grade": "B+"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "78",
+          "grade": "B+"
+        },
+        {
+          "subject": "Basic Technology",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "Business Studies",
+          "score": "85",
+          "grade": "A"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "C.R.S",
+          "score": "79",
+          "grade": "B+"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "English Language",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "History",
+          "score": "77",
+          "grade": "B+"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "Music",
+          "score": "85",
+          "grade": "A"
+        },
+        {
+          "subject": "P.H.E",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Phonics",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "Security Education",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "51",
+          "grade": "C"
+        }
+      ],
+      "average": "82.12%",
+      "average_grade": "N/A"
+    },
+    {
+      "term": "JSS 2",
+      "period": "2022/2023 - First Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "87",
+          "grade": "A"
+        },
+        {
+          "subject": "Basic Technology",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "Business Studies",
+          "score": "93",
+          "grade": "A+"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "69",
+          "grade": "B"
+        },
+        {
+          "subject": "C.R.K",
+          "score": "79",
+          "grade": "B+"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "83",
+          "grade": "A"
+        },
+        {
+          "subject": "English Language",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Hausa",
+          "score": "73",
+          "grade": "B+"
+        },
+        {
+          "subject": "History",
+          "score": "68",
+          "grade": "B"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "77",
+          "grade": "B+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "93",
+          "grade": "A+"
+        },
+        {
+          "subject": "Music",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "P.H.E",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "Phonics",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "Security Education",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "83",
+          "grade": "A"
+        }
+      ],
+      "average": "83.56%",
+      "average_grade": "N/A"
+    },
+    {
+      "term": "JSS 2",
+      "period": "2022/2023 - Second Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "64",
+          "grade": "B"
+        },
+        {
+          "subject": "Basic Technology",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "Business Studies",
+          "score": "81",
+          "grade": "A"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "C.R.K",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "73",
+          "grade": "B+"
+        },
+        {
+          "subject": "English Language",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Hausa",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "History",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "P.H.E",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Phonics",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "Security Education",
+          "score": "85",
+          "grade": "A"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "85",
+          "grade": "A"
+        }
+      ],
+      "average": "85.18%",
+      "average_grade": "N/A"
+    }
+  ]
+}

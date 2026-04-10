@@ -1,0 +1,100 @@
+{
+  "full_name": "OKONKWO JANE O",
+  "student_id": "PHIS/PP/596",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "JSS 3",
+      "period": "2021/2022 - Second Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "85",
+          "grade": "A"
+        },
+        {
+          "subject": "Basic Tech.",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Business Studies",
+          "score": "80",
+          "grade": "B+"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "C.R.S",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "85",
+          "grade": "A"
+        },
+        {
+          "subject": "English Language",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "History",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "73",
+          "grade": "B+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Music",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "P.H.E",
+          "score": "87",
+          "grade": "A"
+        },
+        {
+          "subject": "Phonics",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "Security Education",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "89",
+          "grade": "A"
+        }
+      ],
+      "average": "86.71%",
+      "average_grade": "A"
+    }
+  ]
+}

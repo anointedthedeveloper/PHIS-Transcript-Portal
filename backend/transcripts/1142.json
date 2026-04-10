@@ -1,0 +1,75 @@
+{
+  "full_name": "BOLAJI IFELOLORUN ILARIA",
+  "student_id": "PHIS/PP/1158",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "Pre-Nursery Success",
+      "period": "2024/2025 - Third Term",
+      "subjects": [
+        {
+          "subject": "Civic Education",
+          "score": "83",
+          "grade": "A"
+        },
+        {
+          "subject": "Colouring Activities",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "Computer Studies",
+          "score": "78",
+          "grade": "B+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "73",
+          "grade": "B+"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "85",
+          "grade": "A"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "Number Work",
+          "score": "76",
+          "grade": "B+"
+        },
+        {
+          "subject": "P.L.E",
+          "score": "72",
+          "grade": "B+"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Science",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Social Habits",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Speech Science",
+          "score": "94",
+          "grade": "A+"
+        }
+      ],
+      "average": "81.75%",
+      "average_grade": "A"
+    }
+  ]
+}

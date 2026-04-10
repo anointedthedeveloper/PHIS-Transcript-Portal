@@ -7,7 +7,7 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-const TRANSCRIPTS_DIR = path.join(__dirname, '..', 'transcripts');
+const TRANSCRIPTS_DIR = path.join(__dirname, 'transcripts');
 const studentsMap = new Map();
 
 function loadTranscripts() {
@@ -81,17 +81,6 @@ app.get('/student/:id', (req, res) => {
   if (!student) return res.status(404).json({ error: 'Student not found' });
   res.json(student);
 });
-
-// Serve built React frontend — must be after all API routes
-const frontendDist = path.join(__dirname, '..', 'frontend', 'dist');
-if (fs.existsSync(frontendDist)) {
-  app.use(express.static(frontendDist));
-  // SPA catch-all: any non-API route returns index.html
-  app.get('*', (req, res) => {
-    res.sendFile(path.join(frontendDist, 'index.html'));
-  });
-  console.log('  ✔  Serving frontend from', frontendDist);
-}
 
 const PORT = process.env.PORT || 3001;
 const server = app.listen(PORT, () => {

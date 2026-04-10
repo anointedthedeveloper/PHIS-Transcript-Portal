@@ -1,0 +1,910 @@
+{
+  "full_name": "ANTE NEMINE GRACE",
+  "student_id": "PHIS/PP/615",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "JSS 1",
+      "period": "2021/2022 - Third Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "68",
+          "grade": "B"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "83",
+          "grade": "A"
+        },
+        {
+          "subject": "Basic Technology",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "Business Studies",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "C.R.S",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "83",
+          "grade": "A"
+        },
+        {
+          "subject": "English Language",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "History",
+          "score": "72",
+          "grade": "B+"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "85",
+          "grade": "A"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "78",
+          "grade": "B+"
+        },
+        {
+          "subject": "Music",
+          "score": "76",
+          "grade": "B+"
+        },
+        {
+          "subject": "P.H.E",
+          "score": "85",
+          "grade": "A"
+        },
+        {
+          "subject": "Phonics",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Security Education",
+          "score": "81",
+          "grade": "A"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "60",
+          "grade": "B"
+        }
+      ],
+      "average": "79.76%",
+      "average_grade": "N/A"
+    },
+    {
+      "term": "JSS 2",
+      "period": "2022/2023 - First Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "83",
+          "grade": "A"
+        },
+        {
+          "subject": "Basic Technology",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "Business Studies",
+          "score": "76",
+          "grade": "B+"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "85",
+          "grade": "A"
+        },
+        {
+          "subject": "C.R.K",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "81",
+          "grade": "A"
+        },
+        {
+          "subject": "English Language",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "Hausa",
+          "score": "93",
+          "grade": "A+"
+        },
+        {
+          "subject": "History",
+          "score": "72",
+          "grade": "B+"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "76",
+          "grade": "B+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "79",
+          "grade": "B+"
+        },
+        {
+          "subject": "Music",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "P.H.E",
+          "score": "78",
+          "grade": "B+"
+        },
+        {
+          "subject": "Phonics",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "Security Education",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "81",
+          "grade": "A"
+        }
+      ],
+      "average": "82.78%",
+      "average_grade": "N/A"
+    },
+    {
+      "term": "JSS 2",
+      "period": "2022/2023 - Second Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "70",
+          "grade": "B+"
+        },
+        {
+          "subject": "Basic Technology",
+          "score": "85",
+          "grade": "A"
+        },
+        {
+          "subject": "Business Studies",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "C.R.K",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "59",
+          "grade": "C"
+        },
+        {
+          "subject": "English Language",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "Hausa",
+          "score": "81",
+          "grade": "A"
+        },
+        {
+          "subject": "History",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "76",
+          "grade": "B+"
+        },
+        {
+          "subject": "P.H.E",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "Phonics",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "Security Education",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "70",
+          "grade": "B+"
+        }
+      ],
+      "average": "81.88%",
+      "average_grade": "N/A"
+    },
+    {
+      "term": "JSS 2",
+      "period": "2022/2023 - Third Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "93",
+          "grade": "A+"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "74",
+          "grade": "B+"
+        },
+        {
+          "subject": "Basic Technology",
+          "score": "83",
+          "grade": "A"
+        },
+        {
+          "subject": "Business Studies",
+          "score": "79",
+          "grade": "B+"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "87",
+          "grade": "A"
+        },
+        {
+          "subject": "C.R.S",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "79",
+          "grade": "B+"
+        },
+        {
+          "subject": "English Language",
+          "score": "85",
+          "grade": "A"
+        },
+        {
+          "subject": "French",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "Hausa",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "History",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "85",
+          "grade": "A"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "79",
+          "grade": "B+"
+        },
+        {
+          "subject": "Music",
+          "score": "63",
+          "grade": "B"
+        },
+        {
+          "subject": "P.H.E",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "Phonics",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "Security Education",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "78",
+          "grade": "B+"
+        }
+      ],
+      "average": "83.05%",
+      "average_grade": "N/A"
+    },
+    {
+      "term": "JSS 3",
+      "period": "2023/2024 - First Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "93",
+          "grade": "A+"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "77",
+          "grade": "B+"
+        },
+        {
+          "subject": "Basic Tech.",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Business Studies",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "93",
+          "grade": "A+"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "English Language",
+          "score": "71",
+          "grade": "B+"
+        },
+        {
+          "subject": "French",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Hausa",
+          "score": "87",
+          "grade": "A"
+        },
+        {
+          "subject": "History",
+          "score": "81",
+          "grade": "A"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "74",
+          "grade": "B+"
+        },
+        {
+          "subject": "Music",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "P.H.E",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "Phonics",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Religion",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Security Education",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "93",
+          "grade": "A+"
+        }
+      ],
+      "average": "86.89%",
+      "average_grade": "A"
+    },
+    {
+      "term": "JSS 3",
+      "period": "2023/2024 - Second Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "73",
+          "grade": "B+"
+        },
+        {
+          "subject": "Basic Tech.",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Business Studies",
+          "score": "74",
+          "grade": "B+"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "C.R.S",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "81",
+          "grade": "A"
+        },
+        {
+          "subject": "English Language",
+          "score": "76",
+          "grade": "B+"
+        },
+        {
+          "subject": "French",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "Hausa",
+          "score": "79",
+          "grade": "B+"
+        },
+        {
+          "subject": "History",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "93",
+          "grade": "A+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "83",
+          "grade": "A"
+        },
+        {
+          "subject": "P.H.E",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Security Education",
+          "score": "81",
+          "grade": "A"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "89",
+          "grade": "A"
+        }
+      ],
+      "average": "84.35%",
+      "average_grade": "A"
+    },
+    {
+      "term": "SS1 Success",
+      "period": "2024/2025 - First Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Biology",
+          "score": "87",
+          "grade": "A"
+        },
+        {
+          "subject": "Chemistry",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "Data Processing",
+          "score": "67",
+          "grade": "B"
+        },
+        {
+          "subject": "Economics",
+          "score": "60",
+          "grade": "B"
+        },
+        {
+          "subject": "English Language",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "Further Maths",
+          "score": "54",
+          "grade": "C"
+        },
+        {
+          "subject": "Geography",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "72",
+          "grade": "B+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Physics",
+          "score": "79",
+          "grade": "B+"
+        }
+      ],
+      "average": "76.92%",
+      "average_grade": "N/A"
+    },
+    {
+      "term": "SS1 Success",
+      "period": "2024/2025 - Second Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "62",
+          "grade": "B"
+        },
+        {
+          "subject": "Biology",
+          "score": "55",
+          "grade": "C"
+        },
+        {
+          "subject": "Chemistry",
+          "score": "63",
+          "grade": "B"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "73",
+          "grade": "B+"
+        },
+        {
+          "subject": "Data Processing",
+          "score": "77",
+          "grade": "B+"
+        },
+        {
+          "subject": "Economics",
+          "score": "61",
+          "grade": "B"
+        },
+        {
+          "subject": "English Language",
+          "score": "58",
+          "grade": "C"
+        },
+        {
+          "subject": "Further Maths",
+          "score": "78",
+          "grade": "B+"
+        },
+        {
+          "subject": "Geography",
+          "score": "76",
+          "grade": "B+"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "68",
+          "grade": "B"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "55",
+          "grade": "C"
+        },
+        {
+          "subject": "Physics",
+          "score": "55",
+          "grade": "C"
+        }
+      ],
+      "average": "65.08%",
+      "average_grade": "N/A"
+    },
+    {
+      "term": "SS1 Success",
+      "period": "2024/2025 - Third Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "79",
+          "grade": "B+"
+        },
+        {
+          "subject": "Biology",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "Chemistry",
+          "score": "53",
+          "grade": "C"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "Data Processing",
+          "score": "73",
+          "grade": "B+"
+        },
+        {
+          "subject": "Economics",
+          "score": "59",
+          "grade": "C"
+        },
+        {
+          "subject": "English Language",
+          "score": "68",
+          "grade": "B"
+        },
+        {
+          "subject": "Further Maths",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "Geography",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "71",
+          "grade": "B+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "71",
+          "grade": "B+"
+        },
+        {
+          "subject": "Physics",
+          "score": "80",
+          "grade": "A"
+        }
+      ],
+      "average": "72.92%",
+      "average_grade": "N/A"
+    },
+    {
+      "term": "SS 2",
+      "period": "2025/2026 - First Term",
+      "subjects": [
+        {
+          "subject": "Biology",
+          "score": "61",
+          "grade": "B"
+        },
+        {
+          "subject": "Chemistry",
+          "score": "70",
+          "grade": "B+"
+        },
+        {
+          "subject": "Citizenship & Heritage Studies",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Coding",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Data Technology",
+          "score": "68",
+          "grade": "B"
+        },
+        {
+          "subject": "English Studies",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Geography",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "77",
+          "grade": "B+"
+        },
+        {
+          "subject": "Physics",
+          "score": "61",
+          "grade": "B"
+        },
+        {
+          "subject": "Trade (Livestock Farming)",
+          "score": "93",
+          "grade": "A+"
+        }
+      ],
+      "average": "78.50%",
+      "average_grade": "B+"
+    },
+    {
+      "term": "SS 2",
+      "period": "2025/2026 - Second Term",
+      "subjects": [
+        {
+          "subject": "Biology",
+          "score": "73",
+          "grade": "B+"
+        },
+        {
+          "subject": "Chemistry",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "Citizenship & Heritage Studies",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "Coding",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "Data Technology",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "English Studies",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Geography",
+          "score": "76",
+          "grade": "B+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Physics",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Trade (Livestock Farming)",
+          "score": "69",
+          "grade": "B"
+        }
+      ],
+      "average": "81.50%",
+      "average_grade": "A"
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "full_name": "IKOKO ALEXANDER EKACHUKWU NATHAN",
+  "student_id": "phis/pp/245",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "Pre-Nursery",
+      "period": "2020/2021 - First Term",
+      "subjects": [
+        {
+          "subject": "Civic Education",
+          "score": "69",
+          "grade": "B"
+        },
+        {
+          "subject": "Colouring",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "70",
+          "grade": "B+"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "Number Work",
+          "score": "73",
+          "grade": "B+"
+        },
+        {
+          "subject": "P.L.E",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "74",
+          "grade": "B+"
+        },
+        {
+          "subject": "Science",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Social Habits",
+          "score": "84",
+          "grade": "A"
+        }
+      ],
+      "average": "84.82%",
+      "average_grade": "N/A"
+    },
+    {
+      "term": "Pre-Nursery Success",
+      "period": "2020/2021 - Second Term",
+      "subjects": [
+        {
+          "subject": "Civic Education",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "Colouring Activities",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "Number Work",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "P.L.E",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Science",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social Habits",
+          "score": "100",
+          "grade": "A+"
+        }
+      ],
+      "average": "93.09%",
+      "average_grade": "A+"
+    },
+    {
+      "term": "Pre-Nursery Success",
+      "period": "2020/2021 - Third Term",
+      "subjects": [
+        {
+          "subject": "Civic Education",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "Colouring Activities",
+          "score": "87",
+          "grade": "A"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "72",
+          "grade": "B+"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "78",
+          "grade": "B+"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "74",
+          "grade": "B+"
+        },
+        {
+          "subject": "Number Work",
+          "score": "77",
+          "grade": "B+"
+        },
+        {
+          "subject": "P.L.E",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Science",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Social Habits",
+          "score": "76",
+          "grade": "B+"
+        }
+      ],
+      "average": "82.09%",
+      "average_grade": "A"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "full_name": "UTUNG ZUGWAL JUDITH",
+  "student_id": "PHIS/2026/C8A1",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "SS 3",
+      "period": "2025/2026 - Second Term",
+      "subjects": [
+        {
+          "subject": "Biology",
+          "score": "40",
+          "grade": "D"
+        },
+        {
+          "subject": "Citizenship & Heritage Studies",
+          "score": "41",
+          "grade": "D"
+        },
+        {
+          "subject": "Commerce",
+          "score": "70",
+          "grade": "B+"
+        },
+        {
+          "subject": "Data Technology",
+          "score": "59",
+          "grade": "C"
+        },
+        {
+          "subject": "Economics",
+          "score": "71",
+          "grade": "B+"
+        },
+        {
+          "subject": "English Studies",
+          "score": "62",
+          "grade": "B"
+        },
+        {
+          "subject": "Financial Accounting",
+          "score": "74",
+          "grade": "B+"
+        },
+        {
+          "subject": "Government",
+          "score": "69",
+          "grade": "B"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "50",
+          "grade": "C"
+        },
+        {
+          "subject": "Religion",
+          "score": "45",
+          "grade": "D"
+        }
+      ],
+      "average": "58.10%",
+      "average_grade": "C"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "full_name": "IYERE IRENOSEN JESSE",
+  "student_id": "PHIS/2026/FBA7",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "Pre-Nursery 2 Success",
+      "period": "2025/2026 - Second Term",
+      "subjects": [
+        {
+          "subject": "Basic Digital Literacy",
+          "score": "87",
+          "grade": "A"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Literacy",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Numeracy",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "99",
+          "grade": "A+"
+        },
+        {
+          "subject": "Science",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Social & Citizenship Studies",
+          "score": "89",
+          "grade": "A"
+        }
+      ],
+      "average": "88.89%",
+      "average_grade": "A"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "full_name": "OKORO CHIDUBEM FREDRICK",
+  "student_id": "PHIS/2026/146D",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "JSS 3 Success",
+      "period": "2025/2026 - Second Term",
+      "subjects": [
+        {
+          "subject": "Business Studies",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Coding",
+          "score": "57",
+          "grade": "C"
+        },
+        {
+          "subject": "Digital Technologies",
+          "score": "79",
+          "grade": "B+"
+        },
+        {
+          "subject": "English Studies",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "History",
+          "score": "80",
+          "grade": "B+"
+        },
+        {
+          "subject": "Intermidiate Science",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "Language",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "58",
+          "grade": "C"
+        },
+        {
+          "subject": "P.H.E",
+          "score": "76",
+          "grade": "B+"
+        },
+        {
+          "subject": "Religion",
+          "score": "65",
+          "grade": "B"
+        },
+        {
+          "subject": "Social & Citizenship Studies",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "Trade (Livestock Farming)",
+          "score": "83",
+          "grade": "A"
+        }
+      ],
+      "average": "81.77%",
+      "average_grade": "A"
+    }
+  ]
+}

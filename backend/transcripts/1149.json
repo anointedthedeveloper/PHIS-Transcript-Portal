@@ -1,0 +1,261 @@
+{
+  "full_name": "VICTOR ZENITH",
+  "student_id": "PHIS/PP/1165",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "Basic 4 Victory",
+      "period": "2024/2025 - Third Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "81",
+          "grade": "A"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "Basic Technology",
+          "score": "74",
+          "grade": "B+"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "79",
+          "grade": "B+"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "76",
+          "grade": "B+"
+        },
+        {
+          "subject": "English Language",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "French",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "History",
+          "score": "78",
+          "grade": "B+"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "81",
+          "grade": "A"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Language",
+          "score": "76",
+          "grade": "B+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "73",
+          "grade": "B+"
+        },
+        {
+          "subject": "P.H.E",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "Phonics",
+          "score": "77",
+          "grade": "B+"
+        },
+        {
+          "subject": "Quantitative Reasoning",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "Religion",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "Security Education",
+          "score": "69",
+          "grade": "B"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "77",
+          "grade": "B+"
+        },
+        {
+          "subject": "Verbal Reasoning",
+          "score": "91",
+          "grade": "A+"
+        }
+      ],
+      "average": "80.40%",
+      "average_grade": "A"
+    },
+    {
+      "term": "Basic 5 Victory",
+      "period": "2025/2026 - First Term",
+      "subjects": [
+        {
+          "subject": "Basic Digital Literacy",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Basic Science & Technology",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "English Studies",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "French",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "History",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Language",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "P.H.E",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Phonics",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Pre-vocational Studies",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Religion",
+          "score": "85",
+          "grade": "A"
+        },
+        {
+          "subject": "Social & Citizenship Studies",
+          "score": "91",
+          "grade": "A+"
+        }
+      ],
+      "average": "88.69%",
+      "average_grade": "A"
+    },
+    {
+      "term": "Basic 5 Victory",
+      "period": "2025/2026 - Second Term",
+      "subjects": [
+        {
+          "subject": "Basic Digital Literacy",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "Basic Science & Technology",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "English Studies",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "French",
+          "score": "87",
+          "grade": "A"
+        },
+        {
+          "subject": "History",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "Language",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "P.H.E",
+          "score": "81",
+          "grade": "A"
+        },
+        {
+          "subject": "Phonics",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Pre-vocational Studies",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Religion",
+          "score": "87",
+          "grade": "A"
+        },
+        {
+          "subject": "Social & Citizenship Studies",
+          "score": "80",
+          "grade": "A"
+        }
+      ],
+      "average": "84.62%",
+      "average_grade": "A"
+    }
+  ]
+}

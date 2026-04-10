@@ -1,0 +1,40 @@
+{
+  "full_name": "SAMUEL BLOSSOM CHUKWUEMEKA",
+  "student_id": "PHIS/PP/1235",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "SS 3",
+      "period": "2025/2026 - First Term",
+      "subjects": [
+        {
+          "subject": "Chemistry",
+          "score": "37",
+          "grade": "F"
+        },
+        {
+          "subject": "Citizenship & Heritage Studies",
+          "score": "73",
+          "grade": "B+"
+        },
+        {
+          "subject": "Data Technology",
+          "score": "59",
+          "grade": "C"
+        },
+        {
+          "subject": "English Studies",
+          "score": "43",
+          "grade": "D"
+        },
+        {
+          "subject": "Physics",
+          "score": "35",
+          "grade": "F"
+        }
+      ],
+      "average": "49.40%",
+      "average_grade": "D"
+    }
+  ]
+}

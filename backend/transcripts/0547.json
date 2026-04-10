@@ -1,0 +1,216 @@
+{
+  "full_name": "USMAN MUHAMMED",
+  "student_id": "PHIS/PP/609",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "Pre-Nursery Success",
+      "period": "2021/2022 - Second Term",
+      "subjects": [
+        {
+          "subject": "Civic Education",
+          "score": "83",
+          "grade": "A"
+        },
+        {
+          "subject": "Colouring",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Computer Studies",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "77",
+          "grade": "B+"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "71",
+          "grade": "B+"
+        },
+        {
+          "subject": "Number Work",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "P.L.E",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Science",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "Social Habits",
+          "score": "89",
+          "grade": "A"
+        }
+      ],
+      "average": "84.09%",
+      "average_grade": "A"
+    },
+    {
+      "term": "Pre-Nursery Success",
+      "period": "2021/2022 - Third Term",
+      "subjects": [
+        {
+          "subject": "Civic Education",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "Colouring Activities",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Computer Studies",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "76",
+          "grade": "B+"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "Number Work",
+          "score": "72",
+          "grade": "B+"
+        },
+        {
+          "subject": "P.L.E",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Science",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social Habits",
+          "score": "92",
+          "grade": "A+"
+        }
+      ],
+      "average": "88.00%",
+      "average_grade": "A"
+    },
+    {
+      "term": "Nursery 1 Success",
+      "period": "2022/2023 - First Term",
+      "subjects": [
+        {
+          "subject": "Civic Education",
+          "score": "40",
+          "grade": "D"
+        },
+        {
+          "subject": "Colouring",
+          "score": "31",
+          "grade": "F"
+        },
+        {
+          "subject": "Computer Studies",
+          "score": "40",
+          "grade": "D"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "30",
+          "grade": "F"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "40",
+          "grade": "D"
+        },
+        {
+          "subject": "I.R.K",
+          "score": "40",
+          "grade": "D"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "40",
+          "grade": "D"
+        },
+        {
+          "subject": "Number Work",
+          "score": "38",
+          "grade": "F"
+        },
+        {
+          "subject": "P.L.E",
+          "score": "33",
+          "grade": "F"
+        },
+        {
+          "subject": "Phonics",
+          "score": "40",
+          "grade": "D"
+        },
+        {
+          "subject": "Quantitative Reasoning",
+          "score": "40",
+          "grade": "D"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "38",
+          "grade": "F"
+        },
+        {
+          "subject": "Science",
+          "score": "40",
+          "grade": "D"
+        },
+        {
+          "subject": "Social Habits",
+          "score": "40",
+          "grade": "D"
+        },
+        {
+          "subject": "Verbal Reasoning",
+          "score": "40",
+          "grade": "D"
+        }
+      ],
+      "average": "38.00%",
+      "average_grade": "F"
+    }
+  ]
+}

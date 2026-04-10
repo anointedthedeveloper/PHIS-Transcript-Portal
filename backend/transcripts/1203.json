@@ -1,0 +1,88 @@
+{
+  "full_name": "IBHAWA GOLDEN",
+  "student_id": "PHIS/PP/1219",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "Reception",
+      "period": "2025/2026 - First Term",
+      "subjects": [
+        {
+          "subject": "Colouring",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "Literacy",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "Numeracy",
+          "score": "68",
+          "grade": "B"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Science",
+          "score": "75",
+          "grade": "B+"
+        }
+      ],
+      "average": "76.60%",
+      "average_grade": "B+"
+    },
+    {
+      "term": "Reception",
+      "period": "2025/2026 - Second Term",
+      "subjects": [
+        {
+          "subject": "Colouring",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Literacy",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "Numeracy",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Science",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social Habits",
+          "score": "100",
+          "grade": "A+"
+        }
+      ],
+      "average": "94.63%",
+      "average_grade": "A+"
+    }
+  ]
+}

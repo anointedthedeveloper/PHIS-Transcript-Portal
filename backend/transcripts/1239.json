@@ -1,0 +1,60 @@
+{
+  "full_name": "OKORO JORDAN OGBONNAYA",
+  "student_id": "PHIS/2026/F88A",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "SS 3",
+      "period": "2025/2026 - Second Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "48",
+          "grade": "D"
+        },
+        {
+          "subject": "Biology",
+          "score": "46",
+          "grade": "D"
+        },
+        {
+          "subject": "Citizenship & Heritage Studies",
+          "score": "69",
+          "grade": "B"
+        },
+        {
+          "subject": "Data Technology",
+          "score": "70",
+          "grade": "B+"
+        },
+        {
+          "subject": "English Studies",
+          "score": "66",
+          "grade": "B"
+        },
+        {
+          "subject": "Government",
+          "score": "60",
+          "grade": "B"
+        },
+        {
+          "subject": "Literature",
+          "score": "73",
+          "grade": "B+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "50",
+          "grade": "C"
+        },
+        {
+          "subject": "Religion",
+          "score": "60",
+          "grade": "B"
+        }
+      ],
+      "average": "60.22%",
+      "average_grade": "B"
+    }
+  ]
+}

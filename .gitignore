@@ -4,4 +4,7 @@ backend/node_modules/
 frontend/dist/
 .env
 *.log
-# Do NOT ignore transcripts — needed for deployment
+backend/server.log
+backend/tmp_out.json
+# Root transcripts folder is no longer used — transcripts live in backend/transcripts/
+/transcripts/

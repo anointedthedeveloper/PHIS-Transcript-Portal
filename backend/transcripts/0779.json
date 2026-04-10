@@ -1,0 +1,697 @@
+{
+  "full_name": "SALAMI KINGDAVID",
+  "student_id": "PHIS/PP/803",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "Playgroup",
+      "period": "2022/2023 - Second Term",
+      "subjects": [
+        {
+          "subject": "Civic Education",
+          "score": "70",
+          "grade": "B+"
+        },
+        {
+          "subject": "Colouring Activities",
+          "score": "73",
+          "grade": "B+"
+        },
+        {
+          "subject": "Computer Studies",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "66",
+          "grade": "B"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "70",
+          "grade": "B+"
+        },
+        {
+          "subject": "Number Work",
+          "score": "76",
+          "grade": "B+"
+        },
+        {
+          "subject": "P.L.E",
+          "score": "66",
+          "grade": "B"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "74",
+          "grade": "B+"
+        },
+        {
+          "subject": "Science",
+          "score": "81",
+          "grade": "A"
+        },
+        {
+          "subject": "Social Habits",
+          "score": "78",
+          "grade": "B+"
+        }
+      ],
+      "average": "73.55%",
+      "average_grade": "B+"
+    },
+    {
+      "term": "Playgroup",
+      "period": "2022/2023 - Third Term",
+      "subjects": [
+        {
+          "subject": "Civic Education",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "Colouring Activities",
+          "score": "85",
+          "grade": "A"
+        },
+        {
+          "subject": "Computer Studies",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "73",
+          "grade": "B+"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "79",
+          "grade": "B+"
+        },
+        {
+          "subject": "Number Work",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "P.L.E",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "Science",
+          "score": "79",
+          "grade": "B+"
+        },
+        {
+          "subject": "Social Habits",
+          "score": "89",
+          "grade": "A"
+        }
+      ],
+      "average": "83.73%",
+      "average_grade": "A"
+    },
+    {
+      "term": "Pre-Nursery Victory",
+      "period": "2023/2024 - First Term",
+      "subjects": [
+        {
+          "subject": "Civic Education",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "Colouring",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "Computer Studies",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "93",
+          "grade": "A+"
+        },
+        {
+          "subject": "Number Work",
+          "score": "78",
+          "grade": "B+"
+        },
+        {
+          "subject": "P.L.E",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Science",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social Habits",
+          "score": "100",
+          "grade": "A+"
+        }
+      ],
+      "average": "93.73%",
+      "average_grade": "A+"
+    },
+    {
+      "term": "Pre-Nursery Victory",
+      "period": "2023/2024 - Second Term",
+      "subjects": [
+        {
+          "subject": "Civic Education",
+          "score": "93",
+          "grade": "A+"
+        },
+        {
+          "subject": "Colouring",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "Computer Studies",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "85",
+          "grade": "A"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "79",
+          "grade": "B+"
+        },
+        {
+          "subject": "Number Work",
+          "score": "73",
+          "grade": "B+"
+        },
+        {
+          "subject": "P.L.E",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Science",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Social Habits",
+          "score": "98",
+          "grade": "A+"
+        }
+      ],
+      "average": "88.91%",
+      "average_grade": "A"
+    },
+    {
+      "term": "Pre-Nursery Victory",
+      "period": "2023/2024 - Third Term",
+      "subjects": [
+        {
+          "subject": "Civic Education",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Colouring",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "Computer Studies",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "77",
+          "grade": "B+"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Number Work",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "P.L.E",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Science",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social Habits",
+          "score": "100",
+          "grade": "A+"
+        }
+      ],
+      "average": "94.82%",
+      "average_grade": "A+"
+    },
+    {
+      "term": "Nursery 1 Victory",
+      "period": "2024/2025 - First Term",
+      "subjects": [
+        {
+          "subject": "C.C.A",
+          "score": "83",
+          "grade": "A"
+        },
+        {
+          "subject": "C.R.S",
+          "score": "81",
+          "grade": "A"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Computer Studies",
+          "score": "85",
+          "grade": "A"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Number Work",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "P.L.E",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Phonics",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "Quantitative Reasoning",
+          "score": "87",
+          "grade": "A"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Science",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Social Habits",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Verbal Reasoning",
+          "score": "90",
+          "grade": "A+"
+        }
+      ],
+      "average": "87.27%",
+      "average_grade": "A"
+    },
+    {
+      "term": "Nursery 1 Victory",
+      "period": "2024/2025 - Second Term",
+      "subjects": [
+        {
+          "subject": "C.C.A",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "C.R.S",
+          "score": "87",
+          "grade": "A"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Computer Studies",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Number Work",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "P.L.E",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "Phonics",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "Quantitative Reasoning",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "Science",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Social Habits",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Verbal Reasoning",
+          "score": "85",
+          "grade": "A"
+        }
+      ],
+      "average": "90.00%",
+      "average_grade": "A+"
+    },
+    {
+      "term": "Nursery 1 Victory",
+      "period": "2024/2025 - Third Term",
+      "subjects": [
+        {
+          "subject": "C.C.A",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "C.R.S",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "Computer Studies",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Number Work",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "P.L.E",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "Phonics",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Quantitative Reasoning",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Science",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social Habits",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "Verbal Reasoning",
+          "score": "95",
+          "grade": "A+"
+        }
+      ],
+      "average": "93.07%",
+      "average_grade": "A+"
+    },
+    {
+      "term": "Nursery 2 Victory",
+      "period": "2025/2026 - First Term",
+      "subjects": [
+        {
+          "subject": "Basic Digital Literacy",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "99",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "Number Work",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "Phonics",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "Religion",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "85",
+          "grade": "A"
+        },
+        {
+          "subject": "Science",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social & Citizenship Studies",
+          "score": "97",
+          "grade": "A+"
+        }
+      ],
+      "average": "95.82%",
+      "average_grade": "A+"
+    },
+    {
+      "term": "Nursery 2 Victory",
+      "period": "2025/2026 - Second Term",
+      "subjects": [
+        {
+          "subject": "Basic Digital Literacy",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "83",
+          "grade": "A"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "Number Work",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Phonics",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Religion",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Science",
+          "score": "99",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social & Citizenship Studies",
+          "score": "98",
+          "grade": "A+"
+        }
+      ],
+      "average": "95.73%",
+      "average_grade": "A+"
+    }
+  ]
+}

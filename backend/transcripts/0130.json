@@ -1,0 +1,105 @@
+{
+  "full_name": "DZAVE  OLIVIA IVSE",
+  "student_id": "Phis/pp/134",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "Basic 3",
+      "period": "2020/2021 - First Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Basic Tech.",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "C.R.S",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "English Language",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "French Language",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "83",
+          "grade": "A"
+        },
+        {
+          "subject": "P H E",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Phonics",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Quantitative Reasoning",
+          "score": "85",
+          "grade": "A"
+        },
+        {
+          "subject": "Security Education",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "Verbal Reasoning",
+          "score": "91",
+          "grade": "A+"
+        }
+      ],
+      "average": "89.44%",
+      "average_grade": "N/A"
+    }
+  ]
+}

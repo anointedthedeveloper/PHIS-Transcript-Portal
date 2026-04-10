@@ -1,0 +1,133 @@
+{
+  "full_name": "NWANERI CHIDINMA",
+  "student_id": "PHIS/PP/767",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "Pre-Nursery Success",
+      "period": "2022/2023 - First Term",
+      "subjects": [
+        {
+          "subject": "Civic Education",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Colouring",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Computer Studies",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "78",
+          "grade": "B+"
+        },
+        {
+          "subject": "Number Work",
+          "score": "81",
+          "grade": "A"
+        },
+        {
+          "subject": "P.L.E",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "Science",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social Habits",
+          "score": "78",
+          "grade": "B+"
+        }
+      ],
+      "average": "86.64%",
+      "average_grade": "A"
+    },
+    {
+      "term": "Pre-Nursery Success",
+      "period": "2022/2023 - Second Term",
+      "subjects": [
+        {
+          "subject": "Civic Education",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "Colouring",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Computer Studies",
+          "score": "78",
+          "grade": "B+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Number Work",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "P.L.E",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "Science",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "Social Habits",
+          "score": "82",
+          "grade": "A"
+        }
+      ],
+      "average": "86.18%",
+      "average_grade": "A"
+    }
+  ]
+}

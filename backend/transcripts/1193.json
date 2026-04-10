@@ -1,0 +1,108 @@
+{
+  "full_name": "UMAR UMAR ABBAS",
+  "student_id": "PHIS/PP/1209",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "Pre-Nursery 1 Success",
+      "period": "2025/2026 - First Term",
+      "subjects": [
+        {
+          "subject": "Basic Digital Literacy",
+          "score": "77",
+          "grade": "B+"
+        },
+        {
+          "subject": "Colouring Activities",
+          "score": "78",
+          "grade": "B+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "Literacy",
+          "score": "70",
+          "grade": "B+"
+        },
+        {
+          "subject": "Numeracy",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Science",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social & Citizenship Studies",
+          "score": "83",
+          "grade": "A"
+        }
+      ],
+      "average": "83.11%",
+      "average_grade": "A"
+    },
+    {
+      "term": "Pre-Nursery 1 Success",
+      "period": "2025/2026 - Second Term",
+      "subjects": [
+        {
+          "subject": "Colouring Activities",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Literacy",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "Numeracy",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Science",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social & Citizenship Studies",
+          "score": "100",
+          "grade": "A+"
+        }
+      ],
+      "average": "98.75%",
+      "average_grade": "A+"
+    }
+  ]
+}

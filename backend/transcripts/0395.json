@@ -1,0 +1,133 @@
+{
+  "full_name": "DANIEL DOMINION",
+  "student_id": "Phis/pp/425",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "Pre-Nursery Victory",
+      "period": "2021/2022 - First Term",
+      "subjects": [
+        {
+          "subject": "Civic Education",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "Colouring Activities",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Computer Studies",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "93",
+          "grade": "A+"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "99",
+          "grade": "A+"
+        },
+        {
+          "subject": "Number Work",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "P.L.E",
+          "score": "85",
+          "grade": "A"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "Science",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social Habits",
+          "score": "97",
+          "grade": "A+"
+        }
+      ],
+      "average": "94.09%",
+      "average_grade": "A+"
+    },
+    {
+      "term": "Pre-Nursery Victory",
+      "period": "2021/2022 - Second Term",
+      "subjects": [
+        {
+          "subject": "Civic Education",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "Colouring",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "Computer Studies",
+          "score": "93",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "85",
+          "grade": "A"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "85",
+          "grade": "A"
+        },
+        {
+          "subject": "Number Work",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "P.L.E",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Science",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social Habits",
+          "score": "100",
+          "grade": "A+"
+        }
+      ],
+      "average": "91.82%",
+      "average_grade": "A+"
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-const BASE = import.meta.env.PROD ? '' : 'http://localhost:3001';
+const BASE = import.meta.env.VITE_API_URL || 'http://localhost:3001';
 
 export async function searchStudents({ name, student_id, year }) {
   const params = new URLSearchParams();

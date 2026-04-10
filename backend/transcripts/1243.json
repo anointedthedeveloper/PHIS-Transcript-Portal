@@ -1,0 +1,60 @@
+{
+  "full_name": "KELECHI MMACHI NOELLA",
+  "student_id": "PHIS/2026/9EB3",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "Pre-Nursery 2 Success",
+      "period": "2025/2026 - Second Term",
+      "subjects": [
+        {
+          "subject": "Basic Digital Literacy",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "Literacy",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Numeracy",
+          "score": "87",
+          "grade": "A"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "99",
+          "grade": "A+"
+        },
+        {
+          "subject": "Science",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social & Citizenship Studies",
+          "score": "90",
+          "grade": "A+"
+        }
+      ],
+      "average": "89.00%",
+      "average_grade": "A"
+    }
+  ]
+}

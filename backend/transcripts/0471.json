@@ -1,0 +1,625 @@
+{
+  "full_name": "EZO ELIANA CHINECHEREM",
+  "student_id": "Phis/pp/500",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "Basic 1 Success",
+      "period": "2021/2022 - First Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "Basic Tech.",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "C.R.S",
+          "score": "99",
+          "grade": "A+"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "English Language",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "French",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "Music",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "P.H.E",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "Quantitative Reasoning",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Security Education",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Verbal Reasoning",
+          "score": "98",
+          "grade": "A+"
+        }
+      ],
+      "average": "95.39%",
+      "average_grade": "A+"
+    },
+    {
+      "term": "Basic 1 Champion",
+      "period": "2021/2022 - Second Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Basic Tech.",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "83",
+          "grade": "A"
+        },
+        {
+          "subject": "C.R.S",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "93",
+          "grade": "A+"
+        },
+        {
+          "subject": "English Language",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "French",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "99",
+          "grade": "A+"
+        },
+        {
+          "subject": "Music",
+          "score": "78",
+          "grade": "B+"
+        },
+        {
+          "subject": "P.H.E",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "Phonics",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "Quantitative Reasoning",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Security Education",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Verbal Reasoning",
+          "score": "99",
+          "grade": "A+"
+        }
+      ],
+      "average": "90.79%",
+      "average_grade": "A+"
+    },
+    {
+      "term": "Basic 1 Champion",
+      "period": "2021/2022 - Third Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "99",
+          "grade": "A+"
+        },
+        {
+          "subject": "Basic Tech.",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "C.R.S",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "English Language",
+          "score": "99",
+          "grade": "A+"
+        },
+        {
+          "subject": "French",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "93",
+          "grade": "A+"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "Music",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "P.H.E",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "Phonics",
+          "score": "93",
+          "grade": "A+"
+        },
+        {
+          "subject": "Quantitative Reasoning",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "Security Education",
+          "score": "93",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "Verbal Reasoning",
+          "score": "100",
+          "grade": "A+"
+        }
+      ],
+      "average": "95.05%",
+      "average_grade": "A+"
+    },
+    {
+      "term": "Basic 2 Champion",
+      "period": "2022/2023 - First Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Basic Technology",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "C.R.S",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "English Language",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Hausa",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "85",
+          "grade": "A"
+        },
+        {
+          "subject": "Music",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "P.H.E",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "Phonics",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "Quantitative Reasoning",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Religion",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "Security Education",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Verbal Reasoning",
+          "score": "100",
+          "grade": "A+"
+        }
+      ],
+      "average": "91.70%",
+      "average_grade": "A+"
+    },
+    {
+      "term": "Basic 2 Champion",
+      "period": "2022/2023 - Second Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "93",
+          "grade": "A+"
+        },
+        {
+          "subject": "Basic Technology",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "English Language",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Hausa",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "P.H.E",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "Phonics",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "Quantitative Reasoning",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "Religion",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Security Education",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "Verbal Reasoning",
+          "score": "94",
+          "grade": "A+"
+        }
+      ],
+      "average": "92.50%",
+      "average_grade": "A+"
+    },
+    {
+      "term": "Basic 2 Champion",
+      "period": "2022/2023 - Third Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "Basic Technology",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "93",
+          "grade": "A+"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "English Language",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "French",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "Hausa",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "99",
+          "grade": "A+"
+        },
+        {
+          "subject": "Music",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "P.H.E",
+          "score": "99",
+          "grade": "A+"
+        },
+        {
+          "subject": "Phonics",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "Quantitative Reasoning",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "Religion",
+          "score": "99",
+          "grade": "A+"
+        },
+        {
+          "subject": "Security Education",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "Verbal Reasoning",
+          "score": "100",
+          "grade": "A+"
+        }
+      ],
+      "average": "97.20%",
+      "average_grade": "A+"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "full_name": "OBATUYI GBOLAHAN DAVID",
+  "student_id": "Phis/pp/387",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "SS 1",
+      "period": "2021/2022 - First Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "64",
+          "grade": "B"
+        },
+        {
+          "subject": "Biology",
+          "score": "60",
+          "grade": "B"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "65",
+          "grade": "B"
+        },
+        {
+          "subject": "Data Processing",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "Economics",
+          "score": "44",
+          "grade": "D"
+        },
+        {
+          "subject": "English Language",
+          "score": "0",
+          "grade": "F"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "27",
+          "grade": "F"
+        }
+      ],
+      "average": "47.86%",
+      "average_grade": "D"
+    },
+    {
+      "term": "SS 1",
+      "period": "2021/2022 - Second Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "79",
+          "grade": "B+"
+        },
+        {
+          "subject": "Biology",
+          "score": "73",
+          "grade": "B+"
+        },
+        {
+          "subject": "Chemistry",
+          "score": "42",
+          "grade": "D"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "40",
+          "grade": "D"
+        },
+        {
+          "subject": "Data Processing",
+          "score": "68",
+          "grade": "B"
+        },
+        {
+          "subject": "Economics",
+          "score": "67",
+          "grade": "B"
+        },
+        {
+          "subject": "English Language",
+          "score": "67",
+          "grade": "B"
+        },
+        {
+          "subject": "Further Maths",
+          "score": "28",
+          "grade": "F"
+        },
+        {
+          "subject": "Physics",
+          "score": "70",
+          "grade": "B+"
+        }
+      ],
+      "average": "59.33%",
+      "average_grade": "C"
+    },
+    {
+      "term": "SS 1",
+      "period": "2021/2022 - Third Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "71",
+          "grade": "B+"
+        },
+        {
+          "subject": "Biology",
+          "score": "78",
+          "grade": "B+"
+        },
+        {
+          "subject": "Chemistry",
+          "score": "70",
+          "grade": "B+"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "70",
+          "grade": "B+"
+        },
+        {
+          "subject": "Data Processing",
+          "score": "77",
+          "grade": "B+"
+        },
+        {
+          "subject": "Economics",
+          "score": "48",
+          "grade": "D"
+        },
+        {
+          "subject": "English Language",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "Further Maths",
+          "score": "40",
+          "grade": "D"
+        },
+        {
+          "subject": "Geography",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "58",
+          "grade": "C"
+        },
+        {
+          "subject": "Physics",
+          "score": "57",
+          "grade": "C"
+        }
+      ],
+      "average": "67.27%",
+      "average_grade": "B"
+    }
+  ]
+}

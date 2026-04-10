@@ -1,0 +1,365 @@
+{
+  "full_name": "IFEDAYO DANIELLA IMISIOLUWA",
+  "student_id": "PHIS/PP/001",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "Playgroup",
+      "period": "2017/2018 - Second Term",
+      "subjects": [
+        {
+          "subject": "Colouring Activities",
+          "score": "71",
+          "grade": "B+"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "65",
+          "grade": "B"
+        },
+        {
+          "subject": "Number Work",
+          "score": "71",
+          "grade": "B+"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "Scribbling",
+          "score": "74",
+          "grade": "B+"
+        }
+      ],
+      "average": "72.20%",
+      "average_grade": "B+"
+    },
+    {
+      "term": "Playgroup",
+      "period": "2017/2018 - Third Term",
+      "subjects": [
+        {
+          "subject": "Colouring Activities",
+          "score": "68",
+          "grade": "B"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "49",
+          "grade": "D"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "58",
+          "grade": "C"
+        },
+        {
+          "subject": "Number Work",
+          "score": "59",
+          "grade": "C"
+        },
+        {
+          "subject": "Phonics",
+          "score": "43",
+          "grade": "D"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "50",
+          "grade": "C"
+        },
+        {
+          "subject": "Scribbling",
+          "score": "50",
+          "grade": "C"
+        }
+      ],
+      "average": "53.86%",
+      "average_grade": "C"
+    },
+    {
+      "term": "Pre-Nursery Success",
+      "period": "2018/2019 - First Term",
+      "subjects": [
+        {
+          "subject": "Civic Education",
+          "score": "87",
+          "grade": "A"
+        },
+        {
+          "subject": "Colouring Activities",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Number Work",
+          "score": "85",
+          "grade": "A"
+        },
+        {
+          "subject": "P.L.E",
+          "score": "93",
+          "grade": "A+"
+        },
+        {
+          "subject": "Phonics",
+          "score": "78",
+          "grade": "B+"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "93",
+          "grade": "A+"
+        },
+        {
+          "subject": "Science",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social Habits",
+          "score": "88",
+          "grade": "A"
+        }
+      ],
+      "average": "90.08%",
+      "average_grade": "A+"
+    },
+    {
+      "term": "Pre-Nursery Success",
+      "period": "2018/2019 - Second Term",
+      "subjects": [
+        {
+          "subject": "Civic Education",
+          "score": "74",
+          "grade": "B+"
+        },
+        {
+          "subject": "Colouring Activities",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "Number Work",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "P.L.E",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "Phonics",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "99",
+          "grade": "A+"
+        },
+        {
+          "subject": "Science",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social Habits",
+          "score": "91",
+          "grade": "A+"
+        }
+      ],
+      "average": "91.92%",
+      "average_grade": "A+"
+    },
+    {
+      "term": "Pre-Nursery Success",
+      "period": "2018/2019 - Third Term",
+      "subjects": [
+        {
+          "subject": "Civic Education",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "Colouring Activities",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "Number Work",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "P.L.E",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Science",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social Habits",
+          "score": "96",
+          "grade": "A+"
+        }
+      ],
+      "average": "96.09%",
+      "average_grade": "A+"
+    },
+    {
+      "term": "Nursery 1 Victory",
+      "period": "2019/2020 - First Term",
+      "subjects": [
+        {
+          "subject": "C.R.S",
+          "score": "81",
+          "grade": "A"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "Colouring",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "87",
+          "grade": "A"
+        },
+        {
+          "subject": "Number Work",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "P.L.E",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Phonics",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "Quantitative Reasoning",
+          "score": "99",
+          "grade": "A+"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Science",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social Habits",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Verbal Reasoning",
+          "score": "97",
+          "grade": "A+"
+        }
+      ],
+      "average": "91.20%",
+      "average_grade": "A+"
+    }
+  ]
+}

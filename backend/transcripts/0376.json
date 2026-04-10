@@ -1,0 +1,511 @@
+{
+  "full_name": "ASOMBA SAMUEL OBINNA",
+  "student_id": "Phis/pp/363",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "SS 1",
+      "period": "2021/2022 - First Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "83",
+          "grade": "A"
+        },
+        {
+          "subject": "Biology",
+          "score": "70",
+          "grade": "B+"
+        },
+        {
+          "subject": "Chemistry",
+          "score": "71",
+          "grade": "B+"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "83",
+          "grade": "A"
+        },
+        {
+          "subject": "Data Processing",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "Economics",
+          "score": "59",
+          "grade": "C"
+        },
+        {
+          "subject": "English Language",
+          "score": "85",
+          "grade": "A"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "45",
+          "grade": "D"
+        },
+        {
+          "subject": "Physics",
+          "score": "76",
+          "grade": "B+"
+        }
+      ],
+      "average": "72.44%",
+      "average_grade": "B+"
+    },
+    {
+      "term": "SS 1",
+      "period": "2021/2022 - Second Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Biology",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "Chemistry",
+          "score": "71",
+          "grade": "B+"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "53",
+          "grade": "C"
+        },
+        {
+          "subject": "Data Processing",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "Economics",
+          "score": "74",
+          "grade": "B+"
+        },
+        {
+          "subject": "English Language",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Further Maths",
+          "score": "67",
+          "grade": "B"
+        },
+        {
+          "subject": "Geography",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "83",
+          "grade": "A"
+        },
+        {
+          "subject": "Physics",
+          "score": "73",
+          "grade": "B+"
+        }
+      ],
+      "average": "77.09%",
+      "average_grade": "B+"
+    },
+    {
+      "term": "SS 1",
+      "period": "2021/2022 - Third Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "81",
+          "grade": "A"
+        },
+        {
+          "subject": "Biology",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "Chemistry",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Data Processing",
+          "score": "85",
+          "grade": "A"
+        },
+        {
+          "subject": "Economics",
+          "score": "59",
+          "grade": "C"
+        },
+        {
+          "subject": "English Language",
+          "score": "81",
+          "grade": "A"
+        },
+        {
+          "subject": "Further Maths",
+          "score": "50",
+          "grade": "C"
+        },
+        {
+          "subject": "Geography",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "77",
+          "grade": "B+"
+        },
+        {
+          "subject": "Physics",
+          "score": "80",
+          "grade": "A"
+        }
+      ],
+      "average": "80.73%",
+      "average_grade": "A"
+    },
+    {
+      "term": "SS 2",
+      "period": "2022/2023 - First Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "83",
+          "grade": "A"
+        },
+        {
+          "subject": "Biology",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "Chemistry",
+          "score": "83",
+          "grade": "A"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "Data Processing",
+          "score": "79",
+          "grade": "B+"
+        },
+        {
+          "subject": "Economics",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "English Language",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Further Maths",
+          "score": "72",
+          "grade": "B+"
+        },
+        {
+          "subject": "Geography",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "69",
+          "grade": "B"
+        },
+        {
+          "subject": "Physics",
+          "score": "",
+          "grade": ""
+        }
+      ],
+      "average": "74.82%",
+      "average_grade": "B+"
+    },
+    {
+      "term": "SS 2",
+      "period": "2022/2023 - Second Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "76",
+          "grade": "B+"
+        },
+        {
+          "subject": "Biology",
+          "score": "74",
+          "grade": "B+"
+        },
+        {
+          "subject": "Chemistry",
+          "score": "62",
+          "grade": "B"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "Data Processing",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Economics",
+          "score": "69",
+          "grade": "B"
+        },
+        {
+          "subject": "English Language",
+          "score": "76",
+          "grade": "B+"
+        },
+        {
+          "subject": "Further Maths",
+          "score": "57",
+          "grade": "C"
+        },
+        {
+          "subject": "Geography",
+          "score": "93",
+          "grade": "A+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "87",
+          "grade": "A"
+        },
+        {
+          "subject": "Physics",
+          "score": "67",
+          "grade": "B"
+        }
+      ],
+      "average": "76.45%",
+      "average_grade": "B+"
+    },
+    {
+      "term": "SS 2",
+      "period": "2022/2023 - Third Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "77",
+          "grade": "B+"
+        },
+        {
+          "subject": "Biology",
+          "score": "71",
+          "grade": "B+"
+        },
+        {
+          "subject": "Chemistry",
+          "score": "72",
+          "grade": "B+"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "79",
+          "grade": "B+"
+        },
+        {
+          "subject": "Data Processing",
+          "score": "81",
+          "grade": "A"
+        },
+        {
+          "subject": "Economics",
+          "score": "63",
+          "grade": "B"
+        },
+        {
+          "subject": "English Language",
+          "score": "78",
+          "grade": "B+"
+        },
+        {
+          "subject": "Further Maths",
+          "score": "51",
+          "grade": "C"
+        },
+        {
+          "subject": "Geography",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "67",
+          "grade": "B"
+        },
+        {
+          "subject": "Physics",
+          "score": "79",
+          "grade": "B+"
+        }
+      ],
+      "average": "73.36%",
+      "average_grade": "B+"
+    },
+    {
+      "term": "SS 3",
+      "period": "2023/2024 - First Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "Biology",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "Chemistry",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Data Processing",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Economics",
+          "score": "",
+          "grade": ""
+        },
+        {
+          "subject": "English Language",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "Further Maths",
+          "score": "66",
+          "grade": "B"
+        },
+        {
+          "subject": "Geography",
+          "score": "93",
+          "grade": "A+"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "74",
+          "grade": "B+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "63",
+          "grade": "B"
+        },
+        {
+          "subject": "Physics",
+          "score": "74",
+          "grade": "B+"
+        }
+      ],
+      "average": "73.42%",
+      "average_grade": "B+"
+    },
+    {
+      "term": "SS 3",
+      "period": "2023/2024 - Second Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "81",
+          "grade": "A"
+        },
+        {
+          "subject": "Biology",
+          "score": "85",
+          "grade": "A"
+        },
+        {
+          "subject": "Chemistry",
+          "score": "70",
+          "grade": "B+"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "79",
+          "grade": "B+"
+        },
+        {
+          "subject": "Data Processing",
+          "score": "74",
+          "grade": "B+"
+        },
+        {
+          "subject": "Economics",
+          "score": "71",
+          "grade": "B+"
+        },
+        {
+          "subject": "English Language",
+          "score": "76",
+          "grade": "B+"
+        },
+        {
+          "subject": "Further Maths",
+          "score": "46",
+          "grade": "D"
+        },
+        {
+          "subject": "Geography",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "74",
+          "grade": "B+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "62",
+          "grade": "B"
+        },
+        {
+          "subject": "Physics",
+          "score": "71",
+          "grade": "B+"
+        }
+      ],
+      "average": "72.75%",
+      "average_grade": "B+"
+    }
+  ]
+}

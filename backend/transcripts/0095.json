@@ -1,0 +1,100 @@
+{
+  "full_name": "ABUBAKAR TISHA LHOTU",
+  "student_id": "phis/pp/103",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "Basic 5",
+      "period": "2019/2020 - First Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "83",
+          "grade": "A"
+        },
+        {
+          "subject": "Basic Sc/Tech",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "79",
+          "grade": "B+"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "87",
+          "grade": "A"
+        },
+        {
+          "subject": "C.R.S",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "76",
+          "grade": "B+"
+        },
+        {
+          "subject": "English Language",
+          "score": "76",
+          "grade": "B+"
+        },
+        {
+          "subject": "French Language",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "87",
+          "grade": "A"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "77",
+          "grade": "B+"
+        },
+        {
+          "subject": "P H E",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Quantitative Reasoning",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "Security Education",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "Verbal Reasoning",
+          "score": "86",
+          "grade": "A"
+        }
+      ],
+      "average": "84.59%",
+      "average_grade": "A"
+    }
+  ]
+}
