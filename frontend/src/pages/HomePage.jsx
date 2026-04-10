@@ -1,23 +1,12 @@
-import { useMemo, useState } from 'react';
+import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 import logo from '../assets/Badge.jpg';
 
-const quickSearches = [
-  { student_id: 'PHIS/PP/001' },
-  { student_id: 'PHIS/JS/014' },
-  { student_id: 'PHIS/SS/008' },
-];
-
 export default function HomePage() {
   const [form, setForm] = useState({ name: '', student_id: '', year: '' });
   const navigate = useNavigate();
-
-  const filledFields = useMemo(
-    () => Object.values(form).filter((value) => value.trim()).length,
-    [form],
-  );
 
   const handleSearch = (e) => {
     e.preventDefault();
@@ -28,12 +17,7 @@ export default function HomePage() {
     if (!params.toString()) return;
     navigate(`/results?${params}`);
   };
-
-  const applyQuickSearch = (preset) => {
-    setForm({ name: '', student_id: preset.student_id, year: '' });
-  };
-
-  return (
+return (
     <div className="min-h-screen flex flex-col bg-[radial-gradient(circle_at_top,_rgba(244,63,94,0.11),_transparent_34%),linear-gradient(180deg,_#fffafa_0%,_#f8fafc_50%,_#ffffff_100%)]">
       <Header />
 
@@ -131,7 +115,7 @@ export default function HomePage() {
                     <button
                       type="submit"
                       className="btn-primary w-full flex items-center justify-center gap-2 py-3 mt-1"
-                      disabled={filledFields === 0}
+                      disabled={!form.name && !form.student_id && !form.year}
                     >
                       <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path
@@ -145,26 +129,6 @@ export default function HomePage() {
                     </button>
                   </form>
 
-                  <div className="mt-5">
-                    <p className="text-xs font-semibold uppercase tracking-wide text-gray-500 mb-3">
-                      Quick examples
-                    </p>
-                    <div className="grid gap-2 sm:grid-cols-3">
-                      {quickSearches.map((preset) => (
-                        <button
-                          key={preset.student_id}
-                          type="button"
-                          onClick={() => applyQuickSearch(preset)}
-                          className="rounded-xl border border-gray-200 bg-gray-50 px-4 py-3 text-left transition hover:border-primary-200 hover:bg-primary-50"
-                        >
-                          <div className="flex flex-col gap-1">
-                            <p className="text-sm font-semibold text-gray-900">{preset.student_id}</p>
-                            <span className="text-xs font-semibold text-primary-600">Use</span>
-                          </div>
-                        </button>
-                      ))}
-                    </div>
-                  </div>
                 </div>
               </div>
             </div>
