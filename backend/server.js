@@ -96,13 +96,21 @@ const server = app.listen(PORT, () => {
 
 server.on('error', (err) => {
   if (err.code === 'EADDRINUSE') {
-    console.error('');
     console.error(`  ✖  Port ${PORT} is already in use.`);
-    console.error(`  →  Kill the existing process or set a different PORT:`);
-    console.error(`     PORT=3002 npm start`);
-    console.error('');
     process.exit(1);
   } else {
     throw err;
   }
 });
+
+// Keep-alive: ping self every 14 min to prevent Render spin-down
+if (process.env.RENDER_URL) {
+  const https = require('https');
+  const PING_URL = process.env.RENDER_URL;
+  setInterval(() => {
+    https.get(PING_URL, (res) => {
+      console.log(`[keep-alive] ${new Date().toISOString()} — ${res.statusCode}`);
+    }).on('error', (e) => console.error(`[keep-alive] failed: ${e.message}`));
+  }, 14 * 60 * 1000);
+  console.log(`  🔁  Keep-alive active → ${PING_URL}`);
+}
