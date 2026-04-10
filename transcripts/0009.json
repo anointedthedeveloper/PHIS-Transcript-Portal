@@ -1,0 +1,573 @@
+{
+  "full_name": "EJILOGO PETER OCHAI",
+  "student_id": "PHIS/PP/009",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "Basic 3",
+      "period": "2017/2018 - Second Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "55",
+          "grade": "C"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "65",
+          "grade": "B"
+        },
+        {
+          "subject": "Basic Tech.",
+          "score": "66",
+          "grade": "B"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "C.R.S",
+          "score": "68",
+          "grade": "B"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "62",
+          "grade": "B"
+        },
+        {
+          "subject": "English Language",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "77",
+          "grade": "B+"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "61",
+          "grade": "B"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "66",
+          "grade": "B"
+        },
+        {
+          "subject": "P H E",
+          "score": "53",
+          "grade": "C"
+        },
+        {
+          "subject": "Quantitative Reasoning",
+          "score": "70",
+          "grade": "B+"
+        },
+        {
+          "subject": "Security Education",
+          "score": "68",
+          "grade": "B"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "60",
+          "grade": "B"
+        },
+        {
+          "subject": "Verbal Reasoning",
+          "score": "67",
+          "grade": "B"
+        }
+      ],
+      "average": "67.31%",
+      "average_grade": "N/A"
+    },
+    {
+      "term": "Basic 3",
+      "period": "2017/2018 - Third Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "71",
+          "grade": "B+"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "Basic Tech.",
+          "score": "63",
+          "grade": "B"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "71",
+          "grade": "B+"
+        },
+        {
+          "subject": "C.R.S",
+          "score": "79",
+          "grade": "B+"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "74",
+          "grade": "B+"
+        },
+        {
+          "subject": "English Language",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "77",
+          "grade": "B+"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "67",
+          "grade": "B"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "72",
+          "grade": "B+"
+        },
+        {
+          "subject": "P H E",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "Phonics",
+          "score": "78",
+          "grade": "B+"
+        },
+        {
+          "subject": "Quantitative Reasoning",
+          "score": "61",
+          "grade": "B"
+        },
+        {
+          "subject": "Security Education",
+          "score": "69",
+          "grade": "B"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "76",
+          "grade": "B+"
+        },
+        {
+          "subject": "Verbal Reasoning",
+          "score": "74",
+          "grade": "B+"
+        }
+      ],
+      "average": "73.94%",
+      "average_grade": "N/A"
+    },
+    {
+      "term": "Basic 4",
+      "period": "2018/2019 - First Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "60",
+          "grade": "B"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "65",
+          "grade": "B"
+        },
+        {
+          "subject": "Basic Tech.",
+          "score": "58",
+          "grade": "C"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "52",
+          "grade": "C"
+        },
+        {
+          "subject": "C.R.S",
+          "score": "83",
+          "grade": "A"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "62",
+          "grade": "B"
+        },
+        {
+          "subject": "English Language",
+          "score": "57",
+          "grade": "C"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "60",
+          "grade": "B"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "55",
+          "grade": "C"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "57",
+          "grade": "C"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "50",
+          "grade": "C"
+        },
+        {
+          "subject": "P H E",
+          "score": "76",
+          "grade": "B+"
+        },
+        {
+          "subject": "Phonics",
+          "score": "67",
+          "grade": "B"
+        },
+        {
+          "subject": "Quantitative Reasoning",
+          "score": "72",
+          "grade": "B+"
+        },
+        {
+          "subject": "Security Education",
+          "score": "68",
+          "grade": "B"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "65",
+          "grade": "B"
+        },
+        {
+          "subject": "Verbal Reasoning",
+          "score": "87",
+          "grade": "A"
+        }
+      ],
+      "average": "64.35%",
+      "average_grade": "N/A"
+    },
+    {
+      "term": "Basic 4",
+      "period": "2018/2019 - Second Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "72",
+          "grade": "B+"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "76",
+          "grade": "B+"
+        },
+        {
+          "subject": "Basic Tech.",
+          "score": "72",
+          "grade": "B+"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "67",
+          "grade": "B"
+        },
+        {
+          "subject": "C.R.S",
+          "score": "70",
+          "grade": "B+"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "77",
+          "grade": "B+"
+        },
+        {
+          "subject": "English Language",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "73",
+          "grade": "B+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "81",
+          "grade": "A"
+        },
+        {
+          "subject": "P H E",
+          "score": "67",
+          "grade": "B"
+        },
+        {
+          "subject": "Phonics",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Quantitative Reasoning",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Security Education",
+          "score": "77",
+          "grade": "B+"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "87",
+          "grade": "A"
+        },
+        {
+          "subject": "Verbal Reasoning",
+          "score": "66",
+          "grade": "B"
+        }
+      ],
+      "average": "77.29%",
+      "average_grade": "N/A"
+    },
+    {
+      "term": "Basic 3",
+      "period": "2018/2019 - Third Term",
+      "subjects": [
+        {
+          "subject": "C.C.A",
+          "score": "",
+          "grade": ""
+        }
+      ],
+      "average": "0.00%",
+      "average_grade": "N/A"
+    },
+    {
+      "term": "Basic 4",
+      "period": "2018/2019 - Third Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "83",
+          "grade": "A"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "77",
+          "grade": "B+"
+        },
+        {
+          "subject": "Basic Tech.",
+          "score": "67",
+          "grade": "B"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "C.R.S",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "69",
+          "grade": "B"
+        },
+        {
+          "subject": "English Language",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "78",
+          "grade": "B+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "P H E",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "Quantitative Reasoning",
+          "score": "78",
+          "grade": "B+"
+        },
+        {
+          "subject": "Security Education",
+          "score": "71",
+          "grade": "B+"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "78",
+          "grade": "B+"
+        },
+        {
+          "subject": "Verbal Reasoning",
+          "score": "98",
+          "grade": "A+"
+        }
+      ],
+      "average": "81.19%",
+      "average_grade": "N/A"
+    },
+    {
+      "term": "Basic 5",
+      "period": "2019/2020 - First Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "72",
+          "grade": "B+"
+        },
+        {
+          "subject": "Basic Sc/Tech",
+          "score": "83",
+          "grade": "A"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "79",
+          "grade": "B+"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "C.R.S",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "79",
+          "grade": "B+"
+        },
+        {
+          "subject": "English Language",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "French Language",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "79",
+          "grade": "B+"
+        },
+        {
+          "subject": "P H E",
+          "score": "83",
+          "grade": "A"
+        },
+        {
+          "subject": "Phonics",
+          "score": "47",
+          "grade": "D"
+        },
+        {
+          "subject": "Quantitative Reasoning",
+          "score": "70",
+          "grade": "B+"
+        },
+        {
+          "subject": "Security Education",
+          "score": "83",
+          "grade": "A"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "Verbal Reasoning",
+          "score": "89",
+          "grade": "A"
+        }
+      ],
+      "average": "80.56%",
+      "average_grade": "A"
+    }
+  ]
+}

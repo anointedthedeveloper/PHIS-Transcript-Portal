@@ -1,0 +1,75 @@
+{
+  "full_name": "AUGUSTINE MARVELLA",
+  "student_id": "PHIS/PP/1157",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "Pre-Nursery Success",
+      "period": "2024/2025 - Second Term",
+      "subjects": [
+        {
+          "subject": "Civic Education",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "Colouring Activities",
+          "score": "72",
+          "grade": "B+"
+        },
+        {
+          "subject": "Computer Studies",
+          "score": "68",
+          "grade": "B"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "67",
+          "grade": "B"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "70",
+          "grade": "B+"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "63",
+          "grade": "B"
+        },
+        {
+          "subject": "Number Work",
+          "score": "83",
+          "grade": "A"
+        },
+        {
+          "subject": "P.L.E",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "74",
+          "grade": "B+"
+        },
+        {
+          "subject": "Science",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "Social Habits",
+          "score": "87",
+          "grade": "A"
+        },
+        {
+          "subject": "Speech Science",
+          "score": "91",
+          "grade": "A+"
+        }
+      ],
+      "average": "76.67%",
+      "average_grade": "B+"
+    }
+  ]
+}

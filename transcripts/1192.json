@@ -1,0 +1,163 @@
+{
+  "full_name": "ADAH EMMANUEL ONDUGBE",
+  "student_id": "PHIS/PP/1208",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "JSS 1 Success",
+      "period": "2025/2026 - First Term",
+      "subjects": [
+        {
+          "subject": "Business Studies",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "85",
+          "grade": "A"
+        },
+        {
+          "subject": "Coding",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "Digital Technologies",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "English Studies",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "History",
+          "score": "83",
+          "grade": "A"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "",
+          "grade": ""
+        },
+        {
+          "subject": "Intermidiate Science",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "Language",
+          "score": "87",
+          "grade": "A"
+        },
+        {
+          "subject": "Language",
+          "score": "87",
+          "grade": "A"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "P.H.E",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Religion",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Social & Citizenship Studies",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Trade (Livestock Farming)",
+          "score": "93",
+          "grade": "A+"
+        }
+      ],
+      "average": "96.57%",
+      "average_grade": "A+"
+    },
+    {
+      "term": "JSS 1 Success",
+      "period": "2025/2026 - Second Term",
+      "subjects": [
+        {
+          "subject": "Business Studies",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Coding",
+          "score": "77",
+          "grade": "B+"
+        },
+        {
+          "subject": "Digital Technologies",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "English Studies",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "History",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "Intermidiate Science",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "P.H.E",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "Religion",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social & Citizenship Studies",
+          "score": "99",
+          "grade": "A+"
+        },
+        {
+          "subject": "Trade (Livestock Farming)",
+          "score": "94",
+          "grade": "A+"
+        }
+      ],
+      "average": "92.58%",
+      "average_grade": "A+"
+    }
+  ]
+}

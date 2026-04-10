@@ -1,0 +1,115 @@
+{
+  "full_name": "ABRAHAM ODION",
+  "student_id": "PHIS/PP/880",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "Basic 4 Victory",
+      "period": "2023/2024 - First Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "66",
+          "grade": "B"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "71",
+          "grade": "B+"
+        },
+        {
+          "subject": "Basic Technology",
+          "score": "72",
+          "grade": "B+"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "69",
+          "grade": "B"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "74",
+          "grade": "B+"
+        },
+        {
+          "subject": "Computer Studies",
+          "score": "59",
+          "grade": "C"
+        },
+        {
+          "subject": "English Language",
+          "score": "59",
+          "grade": "C"
+        },
+        {
+          "subject": "French",
+          "score": "68",
+          "grade": "B"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Hausa",
+          "score": "70",
+          "grade": "B+"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "68",
+          "grade": "B"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "73",
+          "grade": "B+"
+        },
+        {
+          "subject": "Music",
+          "score": "57",
+          "grade": "C"
+        },
+        {
+          "subject": "P.H.E",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "Phonics",
+          "score": "51",
+          "grade": "C"
+        },
+        {
+          "subject": "Quantitative Reasoning",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Religion",
+          "score": "74",
+          "grade": "B+"
+        },
+        {
+          "subject": "Security Education",
+          "score": "66",
+          "grade": "B"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "72",
+          "grade": "B+"
+        },
+        {
+          "subject": "Verbal Reasoning",
+          "score": "98",
+          "grade": "A+"
+        }
+      ],
+      "average": "70.85%",
+      "average_grade": "B+"
+    }
+  ]
+}

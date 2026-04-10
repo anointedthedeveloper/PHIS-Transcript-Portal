@@ -1,0 +1,153 @@
+{
+  "full_name": "NNALUE CHIMDIEBUBE MICHELLE",
+  "student_id": "PHIS/PP/1206",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "Basic 3 Victory",
+      "period": "2025/2026 - First Term",
+      "subjects": [
+        {
+          "subject": "Basic Digital Literacy",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "Basic Science & Technology",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "English Studies",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "French",
+          "score": "",
+          "grade": ""
+        },
+        {
+          "subject": "History",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "Language",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "P H E",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "Phonics",
+          "score": "76",
+          "grade": "B+"
+        },
+        {
+          "subject": "Pre-vocational Studies",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "Religion",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Social & Citizenship Studies",
+          "score": "90",
+          "grade": "A+"
+        }
+      ],
+      "average": "83.92%",
+      "average_grade": "A"
+    },
+    {
+      "term": "Basic 3 Victory",
+      "period": "2025/2026 - Second Term",
+      "subjects": [
+        {
+          "subject": "Basic Digital Literacy",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "Basic Science & Technology",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "English Studies",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "French",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "History",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "Language",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "P.H.E",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "Phonics",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "Pre-vocational Studies",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "Religion",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social & Citizenship Studies",
+          "score": "92",
+          "grade": "A+"
+        }
+      ],
+      "average": "93.69%",
+      "average_grade": "A+"
+    }
+  ]
+}

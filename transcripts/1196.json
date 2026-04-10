@@ -1,0 +1,113 @@
+{
+  "full_name": "ABDULWAHAB ABDULHAKEEM OGIRIMA",
+  "student_id": "PHIS/PP/1212",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "SS 3",
+      "period": "2025/2026 - First Term",
+      "subjects": [
+        {
+          "subject": "Biology",
+          "score": "62",
+          "grade": "B"
+        },
+        {
+          "subject": "Citizenship & Heritage Studies",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "Coding",
+          "score": "49",
+          "grade": "D"
+        },
+        {
+          "subject": "Commerce",
+          "score": "50",
+          "grade": "C"
+        },
+        {
+          "subject": "Data Technology",
+          "score": "78",
+          "grade": "B+"
+        },
+        {
+          "subject": "Economics",
+          "score": "45",
+          "grade": "D"
+        },
+        {
+          "subject": "English Studies",
+          "score": "70",
+          "grade": "B+"
+        },
+        {
+          "subject": "Financial Accounting",
+          "score": "71",
+          "grade": "B+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "81",
+          "grade": "A"
+        },
+        {
+          "subject": "Trade (Livestock Farming)",
+          "score": "79",
+          "grade": "B+"
+        }
+      ],
+      "average": "66.00%",
+      "average_grade": "B"
+    },
+    {
+      "term": "SS 3",
+      "period": "2025/2026 - Second Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "48",
+          "grade": "D"
+        },
+        {
+          "subject": "Citizenship & Heritage Studies",
+          "score": "81",
+          "grade": "A"
+        },
+        {
+          "subject": "Commerce",
+          "score": "77",
+          "grade": "B+"
+        },
+        {
+          "subject": "Data Technology",
+          "score": "72",
+          "grade": "B+"
+        },
+        {
+          "subject": "Economics",
+          "score": "72",
+          "grade": "B+"
+        },
+        {
+          "subject": "English Studies",
+          "score": "68",
+          "grade": "B"
+        },
+        {
+          "subject": "Financial Accounting",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "25",
+          "grade": "F"
+        }
+      ],
+      "average": "66.13%",
+      "average_grade": "B"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "full_name": "GOLLY EYIMOFE BRENDAN",
+  "student_id": "1225",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "Pre-Nursery 1 Success",
+      "period": "2025/2026 - Second Term",
+      "subjects": [
+        {
+          "subject": "Colouring Activities",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Literacy",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "Numeracy",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "Science",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social & Citizenship Studies",
+          "score": "100",
+          "grade": "A+"
+        }
+      ],
+      "average": "98.63%",
+      "average_grade": "A+"
+    }
+  ]
+}

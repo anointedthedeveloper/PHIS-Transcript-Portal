@@ -1,0 +1,330 @@
+{
+  "full_name": "AKANDE GABRIEL",
+  "student_id": "PHIS/PP/639",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "SS 1",
+      "period": "2021/2022 - Third Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "65",
+          "grade": "B"
+        },
+        {
+          "subject": "Biology",
+          "score": "76",
+          "grade": "B+"
+        },
+        {
+          "subject": "C.R.S",
+          "score": "85",
+          "grade": "A"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "76",
+          "grade": "B+"
+        },
+        {
+          "subject": "Data Processing",
+          "score": "81",
+          "grade": "A"
+        },
+        {
+          "subject": "Economics",
+          "score": "46",
+          "grade": "D"
+        },
+        {
+          "subject": "English Language",
+          "score": "64",
+          "grade": "B"
+        },
+        {
+          "subject": "Further Maths",
+          "score": "46",
+          "grade": "D"
+        },
+        {
+          "subject": "Government",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "Literature",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "61",
+          "grade": "B"
+        }
+      ],
+      "average": "68.82%",
+      "average_grade": "B"
+    },
+    {
+      "term": "SS 2",
+      "period": "2022/2023 - First Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "64",
+          "grade": "B"
+        },
+        {
+          "subject": "Biology",
+          "score": "53",
+          "grade": "C"
+        },
+        {
+          "subject": "C.R.S",
+          "score": "72",
+          "grade": "B+"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "85",
+          "grade": "A"
+        },
+        {
+          "subject": "Data Processing",
+          "score": "73",
+          "grade": "B+"
+        },
+        {
+          "subject": "Economics",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "English Language",
+          "score": "69",
+          "grade": "B"
+        },
+        {
+          "subject": "Government",
+          "score": "71",
+          "grade": "B+"
+        },
+        {
+          "subject": "Literature",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "67",
+          "grade": "B"
+        }
+      ],
+      "average": "72.00%",
+      "average_grade": "B+"
+    },
+    {
+      "term": "SS 2",
+      "period": "2022/2023 - Second Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "52",
+          "grade": "C"
+        },
+        {
+          "subject": "Biology",
+          "score": "56",
+          "grade": "C"
+        },
+        {
+          "subject": "C.R.S",
+          "score": "74",
+          "grade": "B+"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "Data Processing",
+          "score": "85",
+          "grade": "A"
+        },
+        {
+          "subject": "Economics",
+          "score": "60",
+          "grade": "B"
+        },
+        {
+          "subject": "English Language",
+          "score": "64",
+          "grade": "B"
+        },
+        {
+          "subject": "Government",
+          "score": "76",
+          "grade": "B+"
+        },
+        {
+          "subject": "Literature",
+          "score": "58",
+          "grade": "C"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "80",
+          "grade": "A"
+        }
+      ],
+      "average": "68.00%",
+      "average_grade": "B"
+    },
+    {
+      "term": "SS 2",
+      "period": "2022/2023 - Third Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "19",
+          "grade": "F"
+        },
+        {
+          "subject": "Biology",
+          "score": "20",
+          "grade": "F"
+        }
+      ],
+      "average": "19.50%",
+      "average_grade": "F"
+    },
+    {
+      "term": "SS 3",
+      "period": "2023/2024 - First Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "79",
+          "grade": "B+"
+        },
+        {
+          "subject": "Biology",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "C.R.S",
+          "score": "64",
+          "grade": "B"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "66",
+          "grade": "B"
+        },
+        {
+          "subject": "Data Processing",
+          "score": "79",
+          "grade": "B+"
+        },
+        {
+          "subject": "Economics",
+          "score": "",
+          "grade": ""
+        },
+        {
+          "subject": "English Language",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Government",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "Literature",
+          "score": "79",
+          "grade": "B+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "85",
+          "grade": "A"
+        }
+      ],
+      "average": "71.45%",
+      "average_grade": "B+"
+    },
+    {
+      "term": "SS 3",
+      "period": "2023/2024 - Second Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "67",
+          "grade": "B"
+        },
+        {
+          "subject": "Biology",
+          "score": "63",
+          "grade": "B"
+        },
+        {
+          "subject": "C.R.S",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "70",
+          "grade": "B+"
+        },
+        {
+          "subject": "Data Processing",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Economics",
+          "score": "70",
+          "grade": "B"
+        },
+        {
+          "subject": "English Language",
+          "score": "52",
+          "grade": "C"
+        },
+        {
+          "subject": "Government",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "72",
+          "grade": "B+"
+        },
+        {
+          "subject": "Literature",
+          "score": "58",
+          "grade": "C"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "68",
+          "grade": "B"
+        }
+      ],
+      "average": "70.91%",
+      "average_grade": "B+"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "full_name": "ALEGE FAWAZ OLAWALE",
+  "student_id": "PHIS/PP/1224",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "SS 3",
+      "period": "2025/2026 - First Term",
+      "subjects": [
+        {
+          "subject": "Data Technology",
+          "score": "30",
+          "grade": "F"
+        }
+      ],
+      "average": "30.00%",
+      "average_grade": "F"
+    },
+    {
+      "term": "SS 3",
+      "period": "2025/2026 - Second Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "66",
+          "grade": "B"
+        },
+        {
+          "subject": "Biology",
+          "score": "67",
+          "grade": "B"
+        },
+        {
+          "subject": "Chemistry",
+          "score": "67",
+          "grade": "B"
+        },
+        {
+          "subject": "Citizenship & Heritage Studies",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "Data Technology",
+          "score": "59",
+          "grade": "C"
+        },
+        {
+          "subject": "English Studies",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "58",
+          "grade": "C"
+        },
+        {
+          "subject": "Physics",
+          "score": "69",
+          "grade": "B"
+        }
+      ],
+      "average": "69.63%",
+      "average_grade": "B"
+    }
+  ]
+}

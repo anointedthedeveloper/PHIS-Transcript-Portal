@@ -1,0 +1,70 @@
+{
+  "full_name": "AMADI KENDRICK",
+  "student_id": "PHIS/PP/776",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "Pre-Nursery Success",
+      "period": "2022/2023 - First Term",
+      "subjects": [
+        {
+          "subject": "Civic Education",
+          "score": "72",
+          "grade": "B+"
+        },
+        {
+          "subject": "Colouring",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "Computer Studies",
+          "score": "78",
+          "grade": "B+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "70",
+          "grade": "B+"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "74",
+          "grade": "B+"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "Number Work",
+          "score": "74",
+          "grade": "B+"
+        },
+        {
+          "subject": "P.L.E",
+          "score": "72",
+          "grade": "B+"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "78",
+          "grade": "B+"
+        },
+        {
+          "subject": "Science",
+          "score": "74",
+          "grade": "B+"
+        },
+        {
+          "subject": "Social Habits",
+          "score": "71",
+          "grade": "B+"
+        }
+      ],
+      "average": "76.00%",
+      "average_grade": "B+"
+    }
+  ]
+}

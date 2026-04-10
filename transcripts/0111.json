@@ -1,0 +1,70 @@
+{
+  "full_name": "ODIOR JOSHUA",
+  "student_id": "phis/pp/084",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "Pre-Nursery Victory",
+      "period": "2020/2021 - Second Term",
+      "subjects": [
+        {
+          "subject": "Civic Education",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Colouring Activities",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Number Work",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "P.L.E",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "Science",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Social Habits",
+          "score": "100",
+          "grade": "A+"
+        }
+      ],
+      "average": "92.73%",
+      "average_grade": "A+"
+    }
+  ]
+}

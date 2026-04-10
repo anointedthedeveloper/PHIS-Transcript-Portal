@@ -1,0 +1,88 @@
+{
+  "full_name": "UGWUANYI ZOE CHIEMELA",
+  "student_id": "PHIS/PP/1186",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "Reception",
+      "period": "2025/2026 - First Term",
+      "subjects": [
+        {
+          "subject": "Colouring",
+          "score": "83",
+          "grade": "A"
+        },
+        {
+          "subject": "Literacy",
+          "score": "83",
+          "grade": "A"
+        },
+        {
+          "subject": "Numeracy",
+          "score": "77",
+          "grade": "B+"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Science",
+          "score": "79",
+          "grade": "B+"
+        }
+      ],
+      "average": "82.40%",
+      "average_grade": "A"
+    },
+    {
+      "term": "Reception",
+      "period": "2025/2026 - Second Term",
+      "subjects": [
+        {
+          "subject": "Colouring",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "Literacy",
+          "score": "83",
+          "grade": "A"
+        },
+        {
+          "subject": "Numeracy",
+          "score": "83",
+          "grade": "A"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Science",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social Habits",
+          "score": "98",
+          "grade": "A+"
+        }
+      ],
+      "average": "95.00%",
+      "average_grade": "A+"
+    }
+  ]
+}

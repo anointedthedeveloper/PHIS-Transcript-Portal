@@ -1,0 +1,153 @@
+{
+  "full_name": "ZUOBAI BENEDICTA EBIERE",
+  "student_id": "PHIS/PP/1180",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "JSS 3 Success",
+      "period": "2025/2026 - First Term",
+      "subjects": [
+        {
+          "subject": "Business Studies",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "Coding",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "Digital Technologies",
+          "score": "99",
+          "grade": "A+"
+        },
+        {
+          "subject": "English Studies",
+          "score": "83",
+          "grade": "A"
+        },
+        {
+          "subject": "History",
+          "score": "65",
+          "grade": "B"
+        },
+        {
+          "subject": "Intermidiate Science",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "Language",
+          "score": "76",
+          "grade": "B+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "P.H.E",
+          "score": "99",
+          "grade": "A+"
+        },
+        {
+          "subject": "Religion",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Social & Citizenship Studies",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Trade (Livestock Farming)",
+          "score": "92",
+          "grade": "A+"
+        }
+      ],
+      "average": "86.00%",
+      "average_grade": "A"
+    },
+    {
+      "term": "JSS 3 Success",
+      "period": "2025/2026 - Second Term",
+      "subjects": [
+        {
+          "subject": "Business Studies",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Coding",
+          "score": "76",
+          "grade": "B+"
+        },
+        {
+          "subject": "Digital Technologies",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "English Studies",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "History",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Intermidiate Science",
+          "score": "80",
+          "grade": "B+"
+        },
+        {
+          "subject": "Language",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "P.H.E",
+          "score": "78",
+          "grade": "B+"
+        },
+        {
+          "subject": "Religion",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "Social & Citizenship Studies",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "Trade (Livestock Farming)",
+          "score": "87",
+          "grade": "A"
+        }
+      ],
+      "average": "87.54%",
+      "average_grade": "A"
+    }
+  ]
+}

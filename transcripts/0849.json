@@ -1,0 +1,297 @@
+{
+  "full_name": "AVAH MICHAEL I.",
+  "student_id": "PHIS/PP/872",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "SS 2",
+      "period": "2023/2024 - First Term",
+      "subjects": [
+        {
+          "subject": "Biology",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "Chemistry",
+          "score": "72",
+          "grade": "B+"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Data Processing",
+          "score": "85",
+          "grade": "A"
+        },
+        {
+          "subject": "English Language",
+          "score": "69",
+          "grade": "B"
+        },
+        {
+          "subject": "Further Maths",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "Geography",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Physics",
+          "score": "76",
+          "grade": "B+"
+        }
+      ],
+      "average": "79.60%",
+      "average_grade": "B+"
+    },
+    {
+      "term": "SS 2",
+      "period": "2023/2024 - Second Term",
+      "subjects": [
+        {
+          "subject": "Biology",
+          "score": "81",
+          "grade": "A"
+        },
+        {
+          "subject": "Chemistry",
+          "score": "74",
+          "grade": "B+"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "Data Processing",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "English Language",
+          "score": "62",
+          "grade": "B"
+        },
+        {
+          "subject": "Further Maths",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "Geography",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "61",
+          "grade": "B"
+        },
+        {
+          "subject": "Physics",
+          "score": "75",
+          "grade": "B+"
+        }
+      ],
+      "average": "75.50%",
+      "average_grade": "B+"
+    },
+    {
+      "term": "SS 2",
+      "period": "2023/2024 - Third Term",
+      "subjects": [
+        {
+          "subject": "Biology",
+          "score": "83",
+          "grade": "A"
+        },
+        {
+          "subject": "Chemistry",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Data Processing",
+          "score": "78",
+          "grade": "B+"
+        },
+        {
+          "subject": "English Language",
+          "score": "76",
+          "grade": "B+"
+        },
+        {
+          "subject": "Further Maths",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "Geography",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "76",
+          "grade": "B+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "62",
+          "grade": "B"
+        },
+        {
+          "subject": "Physics",
+          "score": "87",
+          "grade": "A"
+        }
+      ],
+      "average": "81.80%",
+      "average_grade": "A"
+    },
+    {
+      "term": "SS 3",
+      "period": "2024/2025 - First Term",
+      "subjects": [
+        {
+          "subject": "Biology",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "Chemistry",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "69",
+          "grade": "B"
+        },
+        {
+          "subject": "Data Processing",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "English Language",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "Further Maths",
+          "score": "78",
+          "grade": "B+"
+        },
+        {
+          "subject": "Geography",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "78",
+          "grade": "B+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "71",
+          "grade": "B+"
+        },
+        {
+          "subject": "Physics",
+          "score": "82",
+          "grade": "A"
+        }
+      ],
+      "average": "81.10%",
+      "average_grade": "A"
+    },
+    {
+      "term": "SS 3",
+      "period": "2024/2025 - Second Term",
+      "subjects": [
+        {
+          "subject": "Biology",
+          "score": "57",
+          "grade": "C"
+        },
+        {
+          "subject": "Chemistry",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Data Processing",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "English Language",
+          "score": "68",
+          "grade": "B"
+        },
+        {
+          "subject": "Further Maths",
+          "score": "87",
+          "grade": "A"
+        },
+        {
+          "subject": "Geography",
+          "score": "78",
+          "grade": "B+"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "78",
+          "grade": "B+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "71",
+          "grade": "B+"
+        },
+        {
+          "subject": "Physics",
+          "score": "89",
+          "grade": "A"
+        }
+      ],
+      "average": "78.10%",
+      "average_grade": "B+"
+    }
+  ]
+}

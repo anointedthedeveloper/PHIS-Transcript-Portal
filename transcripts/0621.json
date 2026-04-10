@@ -1,0 +1,110 @@
+{
+  "full_name": "ALPHA MICHELLE",
+  "student_id": "PHIS/PP/649",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "Basic 2 Success",
+      "period": "2021/2022 - Third Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "54",
+          "grade": "C"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "49",
+          "grade": "D"
+        },
+        {
+          "subject": "Basic Technology",
+          "score": "57",
+          "grade": "C"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "66",
+          "grade": "B"
+        },
+        {
+          "subject": "C.R.S",
+          "score": "62",
+          "grade": "B"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "43",
+          "grade": "D"
+        },
+        {
+          "subject": "English Language",
+          "score": "72",
+          "grade": "B+"
+        },
+        {
+          "subject": "French Language",
+          "score": "77",
+          "grade": "B+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "77",
+          "grade": "B+"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "65",
+          "grade": "B"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "77",
+          "grade": "B+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "65",
+          "grade": "B"
+        },
+        {
+          "subject": "Music",
+          "score": "59",
+          "grade": "C"
+        },
+        {
+          "subject": "P H E",
+          "score": "53",
+          "grade": "C"
+        },
+        {
+          "subject": "Phonics",
+          "score": "81",
+          "grade": "A"
+        },
+        {
+          "subject": "Quantitative Reasoning",
+          "score": "74",
+          "grade": "B+"
+        },
+        {
+          "subject": "Security Education",
+          "score": "55",
+          "grade": "C"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "46",
+          "grade": "D"
+        },
+        {
+          "subject": "Verbal Reasoning",
+          "score": "74",
+          "grade": "B+"
+        }
+      ],
+      "average": "63.47%",
+      "average_grade": "B"
+    }
+  ]
+}

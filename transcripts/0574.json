@@ -1,0 +1,100 @@
+{
+  "full_name": "OKWOR UGONNA MC ANTHONY",
+  "student_id": "PHIS/PP/612",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "JSS 1",
+      "period": "2021/2022 - Third Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "73",
+          "grade": "B+"
+        },
+        {
+          "subject": "Basic Technology",
+          "score": "68",
+          "grade": "B"
+        },
+        {
+          "subject": "Business Studies",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "C.R.S",
+          "score": "79",
+          "grade": "B+"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "63",
+          "grade": "B"
+        },
+        {
+          "subject": "English Language",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "History",
+          "score": "68",
+          "grade": "B"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "77",
+          "grade": "B+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "87",
+          "grade": "A"
+        },
+        {
+          "subject": "Music",
+          "score": "93",
+          "grade": "A+"
+        },
+        {
+          "subject": "P.H.E",
+          "score": "83",
+          "grade": "A"
+        },
+        {
+          "subject": "Phonics",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Security Education",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "44",
+          "grade": "D"
+        }
+      ],
+      "average": "78.82%",
+      "average_grade": "N/A"
+    }
+  ]
+}

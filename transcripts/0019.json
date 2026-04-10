@@ -1,0 +1,118 @@
+{
+  "full_name": "DARLINGTON CHILOTARAM DARLYDORA",
+  "student_id": "PHIS/PP/018",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "Playgroup",
+      "period": "2017/2018 - Third Term",
+      "subjects": [
+        {
+          "subject": "Colouring Activities",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "50",
+          "grade": "C"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "Number Work",
+          "score": "79",
+          "grade": "B+"
+        },
+        {
+          "subject": "Phonics",
+          "score": "85",
+          "grade": "A"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "Scribbling",
+          "score": "70",
+          "grade": "B+"
+        }
+      ],
+      "average": "80.00%",
+      "average_grade": "A"
+    },
+    {
+      "term": "Pre-Nursery Success",
+      "period": "2018/2019 - First Term",
+      "subjects": [
+        {
+          "subject": "Civic Education",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "Colouring Activities",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "99",
+          "grade": "A+"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "Number Work",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "P.L.E",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "Phonics",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Science",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social Habits",
+          "score": "98",
+          "grade": "A+"
+        }
+      ],
+      "average": "98.33%",
+      "average_grade": "A+"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "full_name": "AKUBO OYALE MIRA",
+  "student_id": "PHIS/PP/573",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "Pre-Nursery Success",
+      "period": "2021/2022 - Second Term",
+      "subjects": [
+        {
+          "subject": "Civic Education",
+          "score": "78",
+          "grade": "B+"
+        },
+        {
+          "subject": "Colouring",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Computer Studies",
+          "score": "83",
+          "grade": "A"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "85",
+          "grade": "A"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "77",
+          "grade": "B+"
+        },
+        {
+          "subject": "Number Work",
+          "score": "78",
+          "grade": "B+"
+        },
+        {
+          "subject": "P.L.E",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "99",
+          "grade": "A+"
+        },
+        {
+          "subject": "Science",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Social Habits",
+          "score": "82",
+          "grade": "A"
+        }
+      ],
+      "average": "84.36%",
+      "average_grade": "A"
+    },
+    {
+      "term": "Pre-Nursery Success",
+      "period": "2021/2022 - Third Term",
+      "subjects": [
+        {
+          "subject": "Civic Education",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Colouring Activities",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Computer Studies",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Number Work",
+          "score": "83",
+          "grade": "A"
+        },
+        {
+          "subject": "P.L.E",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Science",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social Habits",
+          "score": "94",
+          "grade": "A+"
+        }
+      ],
+      "average": "92.45%",
+      "average_grade": "A+"
+    }
+  ]
+}

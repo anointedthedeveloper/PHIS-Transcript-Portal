@@ -1,0 +1,12 @@
+{
+  "name": "phis-transcript-archive",
+  "version": "1.0.0",
+  "scripts": {
+    "install": "cd backend && npm install && cd ../frontend && npm install",
+    "build": "cd frontend && npm run build",
+    "start": "cd backend && node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

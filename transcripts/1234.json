@@ -1,0 +1,55 @@
+{
+  "full_name": "PAUL NAETOCHUKWU ZAIDEN",
+  "student_id": "PHIS/2026/3E81",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "Pre-Nursery 1 Success",
+      "period": "2025/2026 - Second Term",
+      "subjects": [
+        {
+          "subject": "Colouring Activities",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "Literacy",
+          "score": "74",
+          "grade": "B+"
+        },
+        {
+          "subject": "Numeracy",
+          "score": "83",
+          "grade": "A"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Science",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Social & Citizenship Studies",
+          "score": "90",
+          "grade": "A+"
+        }
+      ],
+      "average": "87.63%",
+      "average_grade": "A"
+    }
+  ]
+}

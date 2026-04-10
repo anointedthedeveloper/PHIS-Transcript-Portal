@@ -1,0 +1,60 @@
+{
+  "full_name": "ENEH UKAMAKA ESTHER",
+  "student_id": "Phis/pp/469",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "SS 1",
+      "period": "2021/2022 - First Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "62",
+          "grade": "B"
+        },
+        {
+          "subject": "Biology",
+          "score": "60",
+          "grade": "B"
+        },
+        {
+          "subject": "Chemistry",
+          "score": "48",
+          "grade": "D"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "67",
+          "grade": "B"
+        },
+        {
+          "subject": "Data Processing",
+          "score": "58",
+          "grade": "C"
+        },
+        {
+          "subject": "Economics",
+          "score": "43",
+          "grade": "D"
+        },
+        {
+          "subject": "English Language",
+          "score": "65",
+          "grade": "B"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "49",
+          "grade": "D"
+        },
+        {
+          "subject": "Physics",
+          "score": "50",
+          "grade": "C"
+        }
+      ],
+      "average": "55.78%",
+      "average_grade": "C"
+    }
+  ]
+}

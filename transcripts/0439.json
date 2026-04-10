@@ -1,0 +1,128 @@
+{
+  "full_name": "OBIALOR OLAEDO URIELLA",
+  "student_id": "Phis/pp/389",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "PRE-NUR CHAMPION",
+      "period": "2021/2022 - First Term",
+      "subjects": [
+        {
+          "subject": "Civic Education",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "Colouring",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Computer Studies",
+          "score": "83",
+          "grade": "A"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "77",
+          "grade": "B+"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Number Work",
+          "score": "79",
+          "grade": "B+"
+        },
+        {
+          "subject": "P.L.E",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Science",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Social Habits",
+          "score": "95",
+          "grade": "A+"
+        }
+      ],
+      "average": "86.40%",
+      "average_grade": "N/A"
+    },
+    {
+      "term": "PRE-NUR CHAMPION",
+      "period": "2021/2022 - Second Term",
+      "subjects": [
+        {
+          "subject": "Civic Education",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Colouring",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "Computer Studies",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "76",
+          "grade": "B+"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "Number Work",
+          "score": "72",
+          "grade": "B+"
+        },
+        {
+          "subject": "P.L.E",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "81",
+          "grade": "A"
+        },
+        {
+          "subject": "Science",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social Habits",
+          "score": "91",
+          "grade": "A+"
+        }
+      ],
+      "average": "86.91%",
+      "average_grade": "N/A"
+    }
+  ]
+}

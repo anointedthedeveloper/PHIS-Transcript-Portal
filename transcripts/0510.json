@@ -1,0 +1,286 @@
+{
+  "full_name": "",
+  "student_id": "510",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "Basic 5",
+      "period": "2021/2022 - Second Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "66",
+          "grade": "B"
+        },
+        {
+          "subject": "Basic Sc/Tech",
+          "score": "70",
+          "grade": "B+"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "73",
+          "grade": "B+"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "72",
+          "grade": "B+"
+        },
+        {
+          "subject": "C.R.S",
+          "score": "76",
+          "grade": "B+"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "71",
+          "grade": "B+"
+        },
+        {
+          "subject": "English Language",
+          "score": "55",
+          "grade": "C"
+        },
+        {
+          "subject": "French Language",
+          "score": "70",
+          "grade": "B+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "66",
+          "grade": "B"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "58",
+          "grade": "C"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "56",
+          "grade": "C"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "69",
+          "grade": "B"
+        },
+        {
+          "subject": "Music",
+          "score": "59",
+          "grade": "C"
+        },
+        {
+          "subject": "P H E",
+          "score": "70",
+          "grade": "B+"
+        },
+        {
+          "subject": "Phonics",
+          "score": "77",
+          "grade": "B+"
+        },
+        {
+          "subject": "Quantitative Reasoning",
+          "score": "71",
+          "grade": "B+"
+        },
+        {
+          "subject": "Security Education",
+          "score": "53",
+          "grade": "C"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "65",
+          "grade": "B"
+        },
+        {
+          "subject": "Verbal Reasoning",
+          "score": "71",
+          "grade": "B+"
+        }
+      ],
+      "average": "66.74%",
+      "average_grade": "B"
+    },
+    {
+      "term": "Basic 5",
+      "period": "2021/2022 - Third Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "83",
+          "grade": "A"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "64",
+          "grade": "B"
+        },
+        {
+          "subject": "Basic Tech.",
+          "score": "69",
+          "grade": "B"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "64",
+          "grade": "B"
+        },
+        {
+          "subject": "C.R.S",
+          "score": "78",
+          "grade": "B+"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "77",
+          "grade": "B+"
+        },
+        {
+          "subject": "English Language",
+          "score": "61",
+          "grade": "B"
+        },
+        {
+          "subject": "French Language",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "78",
+          "grade": "B+"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "66",
+          "grade": "B"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "69",
+          "grade": "B"
+        },
+        {
+          "subject": "Music",
+          "score": "70",
+          "grade": "B+"
+        },
+        {
+          "subject": "P H E",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "Phonics",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "Quantitative Reasoning",
+          "score": "85",
+          "grade": "A"
+        },
+        {
+          "subject": "Security Education",
+          "score": "81",
+          "grade": "A"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "76",
+          "grade": "B+"
+        },
+        {
+          "subject": "Verbal Reasoning",
+          "score": "65",
+          "grade": "B"
+        }
+      ],
+      "average": "73.95%",
+      "average_grade": "B+"
+    },
+    {
+      "term": "JSS 1 Success",
+      "period": "2022/2023 - First Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "42",
+          "grade": "D"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "38",
+          "grade": "F"
+        },
+        {
+          "subject": "Basic Technology",
+          "score": "32",
+          "grade": "F"
+        },
+        {
+          "subject": "Business Studies",
+          "score": "44",
+          "grade": "D"
+        },
+        {
+          "subject": "C.R.S",
+          "score": "45",
+          "grade": "D"
+        },
+        {
+          "subject": "English Language",
+          "score": "43",
+          "grade": "D"
+        },
+        {
+          "subject": "Hausa",
+          "score": "35",
+          "grade": "F"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "30",
+          "grade": "F"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "40",
+          "grade": "D"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "68",
+          "grade": "B"
+        },
+        {
+          "subject": "Music",
+          "score": "35",
+          "grade": "F"
+        },
+        {
+          "subject": "P.H.E",
+          "score": "35",
+          "grade": "F"
+        },
+        {
+          "subject": "Phonics",
+          "score": "52",
+          "grade": "C"
+        }
+      ],
+      "average": "41.46%",
+      "average_grade": "D"
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "full_name": "VICTOR PAULA CHIDERA",
+  "student_id": "phis/pp/240",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "JSS 2",
+      "period": "2020/2021 - First Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Basic Technology",
+          "score": "85",
+          "grade": "A"
+        },
+        {
+          "subject": "Business Studies",
+          "score": "85",
+          "grade": "A"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "C.R.K",
+          "score": "87",
+          "grade": "A"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "English Language",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "87",
+          "grade": "A"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "70",
+          "grade": "B+"
+        },
+        {
+          "subject": "P.H.E",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Security Education",
+          "score": "85",
+          "grade": "A"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Speech Science",
+          "score": "82",
+          "grade": "A"
+        }
+      ],
+      "average": "86.07%",
+      "average_grade": "N/A"
+    },
+    {
+      "term": "JSS 2",
+      "period": "2020/2021 - Second Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "72",
+          "grade": "B+"
+        },
+        {
+          "subject": "Basic Technology",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "Business Studies",
+          "score": "78",
+          "grade": "B+"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "C.R.K",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "English Language",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "76",
+          "grade": "B+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "76",
+          "grade": "B+"
+        },
+        {
+          "subject": "P.H.E",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "Security Education",
+          "score": "85",
+          "grade": "A"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "86",
+          "grade": "A"
+        }
+      ],
+      "average": "83.14%",
+      "average_grade": "N/A"
+    },
+    {
+      "term": "JSS 2",
+      "period": "2020/2021 - Third Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "Basic Technology",
+          "score": "65",
+          "grade": "B"
+        },
+        {
+          "subject": "Business Studies",
+          "score": "70",
+          "grade": "B+"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "81",
+          "grade": "A"
+        },
+        {
+          "subject": "C.R.K",
+          "score": "83",
+          "grade": "A"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "English Language",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "74",
+          "grade": "B+"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "81",
+          "grade": "A"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "64",
+          "grade": "B"
+        },
+        {
+          "subject": "Music",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "P.H.E",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Security Education",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "Speech Science",
+          "score": "74",
+          "grade": "B+"
+        }
+      ],
+      "average": "81.94%",
+      "average_grade": "N/A"
+    },
+    {
+      "term": "JSS 3",
+      "period": "2021/2022 - First Term",
+      "subjects": [
+        {
+          "subject": "Civic Education",
+          "score": "20",
+          "grade": "F"
+        }
+      ],
+      "average": "20.00%",
+      "average_grade": "F"
+    }
+  ]
+}

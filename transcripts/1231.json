@@ -1,0 +1,55 @@
+{
+  "full_name": "BAMIGBOLA OLUWALONIMI AMARIS",
+  "student_id": "PHIS/2026/06A9",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "Pre-Nursery 1 Success",
+      "period": "2025/2026 - Second Term",
+      "subjects": [
+        {
+          "subject": "Colouring Activities",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "67",
+          "grade": "B"
+        },
+        {
+          "subject": "Literacy",
+          "score": "64",
+          "grade": "B"
+        },
+        {
+          "subject": "Numeracy",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "Science",
+          "score": "65",
+          "grade": "B"
+        },
+        {
+          "subject": "Social & Citizenship Studies",
+          "score": "76",
+          "grade": "B+"
+        }
+      ],
+      "average": "78.75%",
+      "average_grade": "B+"
+    }
+  ]
+}

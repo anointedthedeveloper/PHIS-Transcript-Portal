@@ -1,0 +1,708 @@
+{
+  "full_name": "IJEUDO VICTORY CHIEBULIEM",
+  "student_id": "phis/pp/200",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "Basic 1",
+      "period": "2020/2021 - First Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Basic Tech.",
+          "score": "99",
+          "grade": "A+"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "C.R.S",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "99",
+          "grade": "A+"
+        },
+        {
+          "subject": "English Language",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "French Language",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "P H E",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Phonics",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Quantitative Reasoning",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Security Education",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Verbal Reasoning",
+          "score": "100",
+          "grade": "A+"
+        }
+      ],
+      "average": "99.78%",
+      "average_grade": "N/A"
+    },
+    {
+      "term": "Basic 1",
+      "period": "2020/2021 - Second Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "Basic Tech.",
+          "score": "99",
+          "grade": "A+"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "C.R.S",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "English Language",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "French Language",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "P H E",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "Quantitative Reasoning",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "Security Education",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "Verbal Reasoning",
+          "score": "100",
+          "grade": "A+"
+        }
+      ],
+      "average": "98.53%",
+      "average_grade": "N/A"
+    },
+    {
+      "term": "Basic 1",
+      "period": "2020/2021 - Third Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Basic Tech.",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "C.R.S",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "English Language",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "French Language",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "99",
+          "grade": "A+"
+        },
+        {
+          "subject": "Music",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "P H E",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Phonics",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Quantitative Reasoning",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Security Education",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Verbal Reasoning",
+          "score": "",
+          "grade": ""
+        }
+      ],
+      "average": "93.58%",
+      "average_grade": "N/A"
+    },
+    {
+      "term": "Basic 1 Success",
+      "period": "2020/2021 - Third Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Basic Tech.",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "C.R.S",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "English Language",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "French Language",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "99",
+          "grade": "A+"
+        },
+        {
+          "subject": "Music",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "P H E",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Phonics",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Quantitative Reasoning",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Security Education",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Verbal Reasoning",
+          "score": "100",
+          "grade": "A+"
+        }
+      ],
+      "average": "98.84%",
+      "average_grade": "A+"
+    },
+    {
+      "term": "Basic 2 Victory",
+      "period": "2021/2022 - First Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "Basic Tech.",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "C.R.S",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "English Language",
+          "score": "99",
+          "grade": "A+"
+        },
+        {
+          "subject": "French",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "99",
+          "grade": "A+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Music",
+          "score": "99",
+          "grade": "A+"
+        },
+        {
+          "subject": "P H E",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Quantitative Reasoning",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "Security Education",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Verbal Reasoning",
+          "score": "100",
+          "grade": "A+"
+        }
+      ],
+      "average": "99.28%",
+      "average_grade": "A+"
+    },
+    {
+      "term": "Basic 2 Victory",
+      "period": "2021/2022 - Second Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Basic Tech.",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "C.R.S",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "English Language",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "French",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Music",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "P H E",
+          "score": "99",
+          "grade": "A+"
+        },
+        {
+          "subject": "Phonics",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "Quantitative Reasoning",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Security Education",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Verbal Reasoning",
+          "score": "99",
+          "grade": "A+"
+        }
+      ],
+      "average": "99.32%",
+      "average_grade": "A+"
+    },
+    {
+      "term": "Basic 2 Victory",
+      "period": "2021/2022 - Third Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "99",
+          "grade": "A+"
+        },
+        {
+          "subject": "Basic Tech.",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "C.R.S",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "English Language",
+          "score": "99",
+          "grade": "A+"
+        },
+        {
+          "subject": "French",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "97",
+          "grade": "A+"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "99",
+          "grade": "A+"
+        },
+        {
+          "subject": "Music",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "P H E",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Phonics",
+          "score": "99",
+          "grade": "A+"
+        },
+        {
+          "subject": "Quantitative Reasoning",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "Security Education",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "99",
+          "grade": "A+"
+        },
+        {
+          "subject": "Verbal Reasoning",
+          "score": "100",
+          "grade": "A+"
+        }
+      ],
+      "average": "99.16%",
+      "average_grade": "A+"
+    }
+  ]
+}

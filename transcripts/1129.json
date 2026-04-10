@@ -1,0 +1,259 @@
+{
+  "full_name": "DIRISU DANIEL",
+  "student_id": "PHIS/PP/1146",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "SS1 Success",
+      "period": "2024/2025 - Second Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "70",
+          "grade": "B+"
+        },
+        {
+          "subject": "Biology",
+          "score": "47",
+          "grade": "D"
+        },
+        {
+          "subject": "Chemistry",
+          "score": "56",
+          "grade": "C"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "55",
+          "grade": "C"
+        },
+        {
+          "subject": "Data Processing",
+          "score": "63",
+          "grade": "B"
+        },
+        {
+          "subject": "Economics",
+          "score": "39",
+          "grade": "F"
+        },
+        {
+          "subject": "English Language",
+          "score": "36",
+          "grade": "F"
+        },
+        {
+          "subject": "Further Maths",
+          "score": "59",
+          "grade": "C"
+        },
+        {
+          "subject": "Geography",
+          "score": "40",
+          "grade": "D"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "62",
+          "grade": "B"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "51",
+          "grade": "C"
+        },
+        {
+          "subject": "Physics",
+          "score": "52",
+          "grade": "C"
+        }
+      ],
+      "average": "52.50%",
+      "average_grade": "N/A"
+    },
+    {
+      "term": "SS1 Success",
+      "period": "2024/2025 - Third Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "56",
+          "grade": "C"
+        },
+        {
+          "subject": "Biology",
+          "score": "55",
+          "grade": "C"
+        },
+        {
+          "subject": "Chemistry",
+          "score": "36",
+          "grade": "F"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "62",
+          "grade": "B"
+        },
+        {
+          "subject": "Data Processing",
+          "score": "51",
+          "grade": "C"
+        },
+        {
+          "subject": "Economics",
+          "score": "55",
+          "grade": "C"
+        },
+        {
+          "subject": "English Language",
+          "score": "53",
+          "grade": "C"
+        },
+        {
+          "subject": "Further Maths",
+          "score": "67",
+          "grade": "B"
+        },
+        {
+          "subject": "Geography",
+          "score": "74",
+          "grade": "B+"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "51",
+          "grade": "C"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "52",
+          "grade": "C"
+        },
+        {
+          "subject": "Physics",
+          "score": "73",
+          "grade": "B+"
+        }
+      ],
+      "average": "57.08%",
+      "average_grade": "N/A"
+    },
+    {
+      "term": "SS 2",
+      "period": "2025/2026 - First Term",
+      "subjects": [
+        {
+          "subject": "Biology",
+          "score": "71",
+          "grade": "B+"
+        },
+        {
+          "subject": "Chemistry",
+          "score": "55",
+          "grade": "C"
+        },
+        {
+          "subject": "Citizenship & Heritage Studies",
+          "score": "68",
+          "grade": "B"
+        },
+        {
+          "subject": "Coding",
+          "score": "78",
+          "grade": "B+"
+        },
+        {
+          "subject": "Data Technology",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "English Studies",
+          "score": "78",
+          "grade": "B+"
+        },
+        {
+          "subject": "Geography",
+          "score": "60",
+          "grade": "B"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "62",
+          "grade": "B"
+        },
+        {
+          "subject": "Physics",
+          "score": "60",
+          "grade": "B"
+        },
+        {
+          "subject": "Trade (Livestock Farming)",
+          "score": "90",
+          "grade": "A+"
+        }
+      ],
+      "average": "71.00%",
+      "average_grade": "B+"
+    },
+    {
+      "term": "SS 2",
+      "period": "2025/2026 - Second Term",
+      "subjects": [
+        {
+          "subject": "Biology",
+          "score": "62",
+          "grade": "B"
+        },
+        {
+          "subject": "Chemistry",
+          "score": "72",
+          "grade": "B+"
+        },
+        {
+          "subject": "Citizenship & Heritage Studies",
+          "score": "76",
+          "grade": "B+"
+        },
+        {
+          "subject": "Coding",
+          "score": "57",
+          "grade": "C"
+        },
+        {
+          "subject": "Data Technology",
+          "score": "67",
+          "grade": "B"
+        },
+        {
+          "subject": "English Studies",
+          "score": "76",
+          "grade": "B+"
+        },
+        {
+          "subject": "Geography",
+          "score": "73",
+          "grade": "B+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "56",
+          "grade": "C"
+        },
+        {
+          "subject": "Physics",
+          "score": "56",
+          "grade": "C"
+        },
+        {
+          "subject": "Trade (Livestock Farming)",
+          "score": "66",
+          "grade": "B"
+        }
+      ],
+      "average": "66.10%",
+      "average_grade": "B"
+    }
+  ]
+}

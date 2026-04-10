@@ -1,0 +1,113 @@
+{
+  "full_name": "AZUOMA RICHY MUNACHI",
+  "student_id": "PHIS/PP/1017",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "JSS 1 SUCCESS",
+      "period": "2023/2024 - Third Term",
+      "subjects": [
+        {
+          "subject": "Agricultural Science",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "Basic Science",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "Basic Technology",
+          "score": "93",
+          "grade": "A+"
+        },
+        {
+          "subject": "Business Studies",
+          "score": "80",
+          "grade": "A"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "Civic Education",
+          "score": "89",
+          "grade": "A"
+        },
+        {
+          "subject": "English Language",
+          "score": "75",
+          "grade": "B+"
+        },
+        {
+          "subject": "French",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Hausa",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "History",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Home Economics",
+          "score": "95",
+          "grade": "A+"
+        },
+        {
+          "subject": "I.C.T",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "P.H.E",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Religion",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "Security Education",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social Studies",
+          "score": "97",
+          "grade": "A+"
+        }
+      ],
+      "average": "90.71%",
+      "average_grade": "A+"
+    },
+    {
+      "term": "JSS 2 SUCCESS",
+      "period": "2024/2025 - Third Term",
+      "subjects": [
+        {
+          "subject": "Civic Education",
+          "score": "0",
+          "grade": "F"
+        }
+      ],
+      "average": "0.00%",
+      "average_grade": "F"
+    }
+  ]
+}

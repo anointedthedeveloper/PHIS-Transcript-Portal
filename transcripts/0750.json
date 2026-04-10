@@ -1,0 +1,133 @@
+{
+  "full_name": "SALMAN-FARIS ABUBAKAR",
+  "student_id": "PHIS/PP/774",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "Pre-Nursery Success",
+      "period": "2022/2023 - First Term",
+      "subjects": [
+        {
+          "subject": "Civic Education",
+          "score": "94",
+          "grade": "A+"
+        },
+        {
+          "subject": "Colouring",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Computer Studies",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "74",
+          "grade": "B+"
+        },
+        {
+          "subject": "Number Work",
+          "score": "74",
+          "grade": "B+"
+        },
+        {
+          "subject": "P.L.E",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Science",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "Social Habits",
+          "score": "78",
+          "grade": "B+"
+        }
+      ],
+      "average": "84.55%",
+      "average_grade": "A"
+    },
+    {
+      "term": "Pre-Nursery Success",
+      "period": "2022/2023 - Second Term",
+      "subjects": [
+        {
+          "subject": "Civic Education",
+          "score": "70",
+          "grade": "B+"
+        },
+        {
+          "subject": "Colouring",
+          "score": "88",
+          "grade": "A"
+        },
+        {
+          "subject": "Computer Studies",
+          "score": "78",
+          "grade": "B+"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "84",
+          "grade": "A"
+        },
+        {
+          "subject": "Health Habit",
+          "score": "74",
+          "grade": "B+"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "83",
+          "grade": "A"
+        },
+        {
+          "subject": "Number Work",
+          "score": "69",
+          "grade": "B"
+        },
+        {
+          "subject": "P.L.E",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "92",
+          "grade": "A+"
+        },
+        {
+          "subject": "Science",
+          "score": "78",
+          "grade": "B+"
+        },
+        {
+          "subject": "Social Habits",
+          "score": "94",
+          "grade": "A+"
+        }
+      ],
+      "average": "82.00%",
+      "average_grade": "A"
+    }
+  ]
+}

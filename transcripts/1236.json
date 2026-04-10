@@ -1,0 +1,80 @@
+{
+  "full_name": "LEVI NWAKAEGO DIAMOND",
+  "student_id": "PHIS/2026/B95B",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "Basic 3 Champion",
+      "period": "2025/2026 - Second Term",
+      "subjects": [
+        {
+          "subject": "Basic Digital Literacy",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "Basic Science & Technology",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "C.C.A",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "English Studies",
+          "score": "98",
+          "grade": "A+"
+        },
+        {
+          "subject": "French",
+          "score": "86",
+          "grade": "A"
+        },
+        {
+          "subject": "History",
+          "score": "90",
+          "grade": "A+"
+        },
+        {
+          "subject": "Language",
+          "score": "100",
+          "grade": "A+"
+        },
+        {
+          "subject": "Mathematics",
+          "score": "96",
+          "grade": "A+"
+        },
+        {
+          "subject": "P.H.E",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "Phonics",
+          "score": "82",
+          "grade": "A"
+        },
+        {
+          "subject": "Pre-vocational Studies",
+          "score": "99",
+          "grade": "A+"
+        },
+        {
+          "subject": "Religion",
+          "score": "91",
+          "grade": "A+"
+        },
+        {
+          "subject": "Social & Citizenship Studies",
+          "score": "92",
+          "grade": "A+"
+        }
+      ],
+      "average": "93.31%",
+      "average_grade": "A+"
+    }
+  ]
+}

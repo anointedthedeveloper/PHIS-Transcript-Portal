@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-gray-50 text-gray-900 antialiased;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-primary-600 hover:bg-primary-700 text-white font-semibold px-6 py-2.5 rounded-lg transition-colors duration-200 disabled:opacity-50 disabled:cursor-not-allowed;
+  }
+  .btn-outline {
+    @apply border-2 border-primary-600 text-primary-600 hover:bg-primary-600 hover:text-white font-semibold px-6 py-2.5 rounded-lg transition-colors duration-200;
+  }
+  .input-field {
+    @apply w-full border border-gray-300 rounded-lg px-4 py-2.5 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-transparent transition;
+  }
+  .card {
+    @apply bg-white rounded-xl shadow-sm border border-gray-100;
+  }
+  /* Grade badge — tight pill, never a circle */
+  .grade-badge {
+    display: inline-flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    font-size: 0.75rem !important;
+    font-weight: 700 !important;
+    white-space: nowrap !important;
+    border-radius: 999px !important;
+    padding: 2px 10px !important;
+    min-width: 3rem !important;
+    line-height: 1.4 !important;
+  }
+}
+
+@media print {
+  .no-print { display: none !important; }
+}

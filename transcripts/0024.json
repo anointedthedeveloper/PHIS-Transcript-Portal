@@ -1,0 +1,50 @@
+{
+  "full_name": "IFECHUKWU OKEZIE NDUKWE",
+  "student_id": "PHIS/PP/023",
+  "date_generated": "09/04/2026",
+  "terms": [
+    {
+      "term": "Playgroup",
+      "period": "2017/2018 - Third Term",
+      "subjects": [
+        {
+          "subject": "Colouring Activities",
+          "score": "50",
+          "grade": "C"
+        },
+        {
+          "subject": "Handwriting",
+          "score": "50",
+          "grade": "C"
+        },
+        {
+          "subject": "Letter Work",
+          "score": "50",
+          "grade": "C"
+        },
+        {
+          "subject": "Number Work",
+          "score": "50",
+          "grade": "C"
+        },
+        {
+          "subject": "Phonics",
+          "score": "50",
+          "grade": "C"
+        },
+        {
+          "subject": "Rhymes",
+          "score": "50",
+          "grade": "C"
+        },
+        {
+          "subject": "Scribbling",
+          "score": "50",
+          "grade": "C"
+        }
+      ],
+      "average": "50.00%",
+      "average_grade": "C"
+    }
+  ]
+}
