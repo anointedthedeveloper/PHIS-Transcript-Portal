@@ -27,98 +27,6 @@ loadTranscripts();
 function normalizeNum(n) { return String(parseInt(n, 10)); }
 function idNumericSuffix(id) { const m = id.match(/(\d+)$/); return m ? normalizeNum(m[1]) : null; }
 
-// Serve built frontend in production
-const frontendDist = path.join(__dirname, '..', 'frontend', 'dist');
-if (fs.existsSync(frontendDist)) {
-  app.use(express.static(frontendDist));
-  app.get('*', (req, res, next) => {
-    if (req.path.startsWith('/search') || req.path.startsWith('/student')) return next();
-    res.sendFile(path.join(frontendDist, 'index.html'));
-  });
-}
-
-// Root — status page
-app.get('/', (req, res) => {
-  res.send(`<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8"/>
-  <meta name="viewport" content="width=device-width,initial-scale=1"/>
-  <title>PHIS Transcript API</title>
-  <style>
-    *{margin:0;padding:0;box-sizing:border-box}
-    body{font-family:'Segoe UI',Arial,sans-serif;background:#0f172a;color:#e2e8f0;min-height:100vh;display:flex;align-items:center;justify-content:center;padding:24px}
-    .card{background:#1e293b;border:1px solid #334155;border-radius:16px;padding:40px 48px;max-width:560px;width:100%}
-    .badge{display:inline-flex;align-items:center;gap:6px;background:#166534;color:#bbf7d0;font-size:12px;font-weight:600;padding:4px 12px;border-radius:999px;margin-bottom:24px}
-    .dot{width:8px;height:8px;background:#4ade80;border-radius:50%;animation:pulse 1.5s infinite}
-    @keyframes pulse{0%,100%{opacity:1}50%{opacity:.4}}
-    h1{font-size:22px;font-weight:700;color:#f1f5f9;margin-bottom:4px}
-    .sub{color:#94a3b8;font-size:14px;margin-bottom:28px}
-    .stat{display:flex;justify-content:space-between;align-items:center;padding:12px 16px;background:#0f172a;border-radius:10px;margin-bottom:10px}
-    .stat-label{color:#94a3b8;font-size:13px}
-    .stat-value{color:#f1f5f9;font-weight:600;font-size:14px}
-    .endpoints{margin-top:24px}
-    .ep-title{color:#64748b;font-size:11px;text-transform:uppercase;letter-spacing:1px;margin-bottom:10px}
-    .ep{display:flex;align-items:center;gap:10px;padding:10px 14px;background:#0f172a;border-radius:8px;margin-bottom:8px;font-size:13px}
-    .method{background:#1d4ed8;color:#bfdbfe;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:700;flex-shrink:0}
-    .path{color:#7dd3fc;font-family:monospace}
-    .desc{color:#64748b;font-size:12px;margin-left:auto}
-    .footer{margin-top:28px;padding-top:20px;border-top:1px solid #1e293b;color:#475569;font-size:12px;text-align:center}
-    a{color:#7dd3fc;text-decoration:none}
-  </style>
-</head>
-<body>
-  <div class="card">
-    <div class="badge"><span class="dot"></span> Server Online</div>
-    <h1>PHIS Transcript API</h1>
-    <p class="sub">Peter Harvard International Schools — Backend Service</p>
-
-    <div class="stat">
-      <span class="stat-label">📚 Transcripts Loaded</span>
-      <span class="stat-value">${studentsMap.size.toLocaleString()}</span>
-    </div>
-    <div class="stat">
-      <span class="stat-label">🌐 Port</span>
-      <span class="stat-value">${process.env.PORT || 3001}</span>
-    </div>
-    <div class="stat">
-      <span class="stat-label">⏱ Uptime</span>
-      <span class="stat-value" id="uptime">calculating...</span>
-    </div>
-
-    <div class="endpoints">
-      <div class="ep-title">Available Endpoints</div>
-      <div class="ep">
-        <span class="method">GET</span>
-        <span class="path">/search?name=&amp;student_id=&amp;year=</span>
-      </div>
-      <div class="ep">
-        <span class="method">GET</span>
-        <span class="path">/student/:id</span>
-      </div>
-    </div>
-
-    <div class="footer">
-      Powered by <a href="https://anobyte.online" target="_blank">Anobyte</a>
-      &nbsp;·&nbsp;
-      Designed by <a href="https://github.com/anointedthedeveloper" target="_blank">anointedthedeveloper</a>
-    </div>
-  </div>
-  <script>
-    const start = Date.now();
-    function fmt(s){
-      if(s<60) return s+'s';
-      if(s<3600) return Math.floor(s/60)+'m '+( s%60)+'s';
-      return Math.floor(s/3600)+'h '+Math.floor((s%3600)/60)+'m';
-    }
-    setInterval(()=>{
-      document.getElementById('uptime').textContent = fmt(Math.floor((Date.now()-start)/1000));
-    },1000);
-  </script>
-</body>
-</html>`);
-});
-
 // GET /search
 app.get('/search', (req, res) => {
   const { name, student_id, year } = req.query;
@@ -173,6 +81,17 @@ app.get('/student/:id', (req, res) => {
   if (!student) return res.status(404).json({ error: 'Student not found' });
   res.json(student);
 });
+
+// Serve built React frontend — must be after all API routes
+const frontendDist = path.join(__dirname, '..', 'frontend', 'dist');
+if (fs.existsSync(frontendDist)) {
+  app.use(express.static(frontendDist));
+  // SPA catch-all: any non-API route returns index.html
+  app.get('*', (req, res) => {
+    res.sendFile(path.join(frontendDist, 'index.html'));
+  });
+  console.log('  ✔  Serving frontend from', frontendDist);
+}
 
 const PORT = process.env.PORT || 3001;
 const server = app.listen(PORT, () => {
