@@ -4,7 +4,7 @@
   "main": "server.js",
   "scripts": {
     "build": "echo Build complete",
-    "start": "node server.js",
+    "start": "node start.js",
     "dev": "node dev.js"
   },
   "dependencies": {
